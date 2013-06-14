@@ -13,6 +13,7 @@
     <sprite>sprites\ytopr</sprite>
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
+    <sprite>sprites\bigbox</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
@@ -49,6 +50,7 @@
     <object>objects\walltopr</object>
     <object>objects\wallsloper</object>
     <object>objects\toboom</object>
+    <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\lift</object>
   </objects>
