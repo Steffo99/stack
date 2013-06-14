@@ -7,7 +7,10 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\ytile</sprite>
+    <sprite>sprites\up</sprite>
     <sprite>sprites\yslabl</sprite>
+    <sprite>sprites\ytopl</sprite>
+    <sprite>sprites\ytopr</sprite>
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\rbomb</sprite>
@@ -36,14 +39,18 @@
     <object>objects\boom</object>
     <object>objects\menus</object>
     <object>objects\placer</object>
+    <object>objects\strategy</object>
     <object>objects\stack</object>
     <object>objects\wall</object>
     <object>objects\gotostack</object>
     <object>objects\gotoboom</object>
     <object>objects\wallslopel</object>
+    <object>objects\walltopl</object>
+    <object>objects\walltopr</object>
     <object>objects\wallsloper</object>
     <object>objects\toboom</object>
     <object>objects\text</object>
+    <object>objects\lift</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
