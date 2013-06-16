@@ -95,7 +95,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>physics_apply_local_force(0, 0, 0, -400)
+            <string>physics_apply_local_force(0, 0, 0, -1500)
 </string>
           </argument>
         </arguments>

@@ -32,6 +32,7 @@
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
+    <font>fonts\devbeaten</font>
   </fonts>
   <objects name="objects">
     <object>objects\nbomb</object>
@@ -55,8 +56,8 @@
     <object>objects\lift</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\map1</room>
     <room>rooms\menu</room>
-    <room>rooms\stacker</room>
     <room>rooms\boomer</room>
   </rooms>
   <help>
