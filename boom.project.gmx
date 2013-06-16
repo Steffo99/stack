@@ -7,6 +7,10 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\ytile</sprite>
+    <sprite>sprites\t_twotris</sprite>
+    <sprite>sprites\t_classic</sprite>
+    <sprite>sprites\t_sandbox</sprite>
+    <sprite>sprites\t_stairs</sprite>
     <sprite>sprites\up</sprite>
     <sprite>sprites\yslabl</sprite>
     <sprite>sprites\ytopl</sprite>

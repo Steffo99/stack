@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>map1</room>
+            <room>s_twotris</room>
           </argument>
         </arguments>
       </action>
