@@ -7,6 +7,8 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\ytile</sprite>
+    <sprite>sprites\t_maxi</sprite>
+    <sprite>sprites\t_sidewalls</sprite>
     <sprite>sprites\t_twotris</sprite>
     <sprite>sprites\t_classic</sprite>
     <sprite>sprites\t_sandbox</sprite>
@@ -49,6 +51,12 @@
     <object>objects\stack</object>
     <object>objects\wall</object>
     <object>objects\gotostack</object>
+    <object>objects\goto_twotris</object>
+    <object>objects\goto_sidewalls</object>
+    <object>objects\goto_maxi</object>
+    <object>objects\goto_classic</object>
+    <object>objects\goto_sandbox</object>
+    <object>objects\goto_stairs</object>
     <object>objects\gotoboom</object>
     <object>objects\wallslopel</object>
     <object>objects\walltopl</object>
@@ -62,6 +70,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
+    <room>rooms\stackselect</room>
     <room>rooms\boomer</room>
     <rooms name="Stack">
       <room>rooms\s_twotris</room>
