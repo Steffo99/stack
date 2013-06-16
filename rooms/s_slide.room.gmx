@@ -52,8 +52,29 @@
   <instances>
     <instance objName="text" x="312" y="384" name="inst_EB30E1B7" locked="0" code="display = &quot;Impila piu' quadratini possibili per vincere!&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="stack" x="0" y="0" name="inst_42583382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="walltopr" x="288" y="448" name="inst_71CB7289" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="walltopl" x="352" y="448" name="inst_034CC47D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="0" y="128" name="inst_7525FEF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="32" y="160" name="inst_EBF057D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="64" y="192" name="inst_70CF9CD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="96" y="224" name="inst_EE3FE52E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="128" y="256" name="inst_9E679D19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="160" y="288" name="inst_074232D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="192" y="320" name="inst_74896518" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="224" y="352" name="inst_11CF7A37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="256" y="384" name="inst_E84DA3EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="288" y="416" name="inst_A0AF010E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="320" y="448" name="inst_BEC4308A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wallslopel" x="352" y="480" name="inst_25FF9675" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="0" y="160" name="inst_BB1636F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="32" y="192" name="inst_770C5656" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="64" y="224" name="inst_6808CCBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="96" y="256" name="inst_04F0E6AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="128" y="288" name="inst_61F48B34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="160" y="320" name="inst_4F62E743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="192" y="352" name="inst_55E46DD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="224" y="384" name="inst_C7B4BA30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="256" y="416" name="inst_34B20238" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="288" y="448" name="inst_076AE6F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="walltopr" x="320" y="480" name="inst_E7D69D43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

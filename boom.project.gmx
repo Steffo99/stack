@@ -54,11 +54,19 @@
     <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\lift</object>
+    <object>objects\debugobj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\map1</room>
     <room>rooms\menu</room>
     <room>rooms\boomer</room>
+    <rooms name="Stack">
+      <room>rooms\s_twotris</room>
+      <room>rooms\s_classic</room>
+      <room>rooms\s_sandbox</room>
+      <room>rooms\s_stairs</room>
+      <room>rooms\s_sidewalls</room>
+      <room>rooms\s_maxi</room>
+    </rooms>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

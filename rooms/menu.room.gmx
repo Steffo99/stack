@@ -50,6 +50,8 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
+    <instance objName="text" x="64" y="352" name="inst_69F25A4C" locked="0" code="display = &quot;Stack&quot;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="560" y="352" name="inst_12FD098C" locked="0" code="display = &quot;Strategy&quot;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="640" y="480" name="inst_FFE0D61D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="608" y="480" name="inst_6E29682F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="512" y="480" name="inst_4DE63F2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -144,8 +146,6 @@
     <instance objName="gotostack" x="96" y="480" name="inst_A4DD9CB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="gotoboom" x="544" y="480" name="inst_2648C0B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="gotoboom" x="576" y="480" name="inst_250E7EC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="text" x="64" y="352" name="inst_69F25A4C" locked="0" code="display = &quot;Stack&quot;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="text" x="560" y="352" name="inst_12FD098C" locked="0" code="display = &quot;Strategy&quot;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallslopel" x="224" y="224" name="inst_9A0EE952" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallslopel" x="192" y="192" name="inst_A9CAF382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallslopel" x="160" y="160" name="inst_F70DA245" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -182,6 +182,7 @@
     <instance objName="walltopl" x="224" y="384" name="inst_ECEF659F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="walltopl" x="192" y="416" name="inst_C2BA8B62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="walltopl" x="160" y="448" name="inst_F6B1029B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="debugobj" x="32" y="32" name="inst_B5B91240" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
