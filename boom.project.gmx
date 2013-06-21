@@ -28,13 +28,17 @@
     <sprite>sprites\X</sprite>
     <sprite>sprites\cblock</sprite>
     <sprite>sprites\V</sprite>
+    <sprite>sprites\locked</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\saverecord.gml</script>
+    <script>scripts\saveX.gml</script>
     <script>scripts\resetrecord.gml</script>
+    <script>scripts\resetX.gml</script>
     <script>scripts\loadrecord.gml</script>
+    <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
   </scripts>
   <fonts name="fonts">
@@ -63,6 +67,7 @@
     <object>objects\walltopl</object>
     <object>objects\walltopr</object>
     <object>objects\wallsloper</object>
+    <object>objects\blocklock</object>
     <object>objects\toboom</object>
     <object>objects\box</object>
     <object>objects\text</object>
