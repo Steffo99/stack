@@ -35,6 +35,7 @@
     <script>scripts\saverecord.gml</script>
     <script>scripts\resetrecord.gml</script>
     <script>scripts\loadrecord.gml</script>
+    <script>scripts\togglefullscreen.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
