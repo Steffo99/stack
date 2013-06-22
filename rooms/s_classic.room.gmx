@@ -51,9 +51,7 @@
   </views>
   <instances>
     <instance objName="stack" x="0" y="0" name="inst_42583382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="320" y="448" name="inst_DD30E66C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wallsloper" x="288" y="448" name="inst_4BFCEE88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wallslopel" x="352" y="448" name="inst_79667069" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="wclassic" x="320" y="448" name="inst_F8162FC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
