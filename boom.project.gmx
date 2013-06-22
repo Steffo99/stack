@@ -73,6 +73,7 @@
     <object>objects\toboom</object>
     <object>objects\box</object>
     <object>objects\text</object>
+    <object>objects\btotal</object>
     <object>objects\lift</object>
     <object>objects\debugobj</object>
   </objects>
