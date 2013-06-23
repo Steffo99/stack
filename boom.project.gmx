@@ -82,6 +82,7 @@
     <object>objects\debugobj</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\s_lifttest</room>
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
     <room>rooms\boomer</room>
