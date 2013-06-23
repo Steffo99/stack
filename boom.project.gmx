@@ -15,6 +15,7 @@
     <sprite>sprites\t_stairs</sprite>
     <sprite>sprites\up</sprite>
     <sprite>sprites\bclassic</sprite>
+    <sprite>sprites\bsandbox</sprite>
     <sprite>sprites\yslabl</sprite>
     <sprite>sprites\ytopl</sprite>
     <sprite>sprites\ytopr</sprite>
@@ -57,6 +58,7 @@
     <object>objects\stack</object>
     <object>objects\wall</object>
     <object>objects\wclassic</object>
+    <object>objects\wsandbox</object>
     <object>objects\gotostack</object>
     <object>objects\goto_twotris</object>
     <object>objects\goto_sidewalls</object>
