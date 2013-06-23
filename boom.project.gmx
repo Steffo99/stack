@@ -78,11 +78,10 @@
     <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
-    <object>objects\lift</object>
+    <object>objects\magnet</object>
     <object>objects\debugobj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\s_lifttest</room>
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
     <room>rooms\boomer</room>
@@ -93,6 +92,7 @@
       <room>rooms\s_stairs</room>
       <room>rooms\s_sidewalls</room>
       <room>rooms\s_maxi</room>
+      <room>rooms\s_lifttest</room>
     </rooms>
   </rooms>
   <help>
