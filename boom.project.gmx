@@ -16,6 +16,8 @@
     <sprite>sprites\up</sprite>
     <sprite>sprites\bclassic</sprite>
     <sprite>sprites\bsandbox</sprite>
+    <sprite>sprites\bsidewalls1</sprite>
+    <sprite>sprites\bsidewalls2</sprite>
     <sprite>sprites\yslabl</sprite>
     <sprite>sprites\ytopl</sprite>
     <sprite>sprites\ytopr</sprite>
