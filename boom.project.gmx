@@ -33,6 +33,7 @@
     <sprite>sprites\cblock</sprite>
     <sprite>sprites\V</sprite>
     <sprite>sprites\locked</sprite>
+    <sprite>sprites\coin</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -53,6 +54,7 @@
     <object>objects\nbomb</object>
     <object>objects\dbomb</object>
     <object>objects\menuball</object>
+    <object>objects\money</object>
     <object>objects\boom</object>
     <object>objects\menus</object>
     <object>objects\placer</object>
