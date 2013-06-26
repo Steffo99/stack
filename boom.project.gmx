@@ -32,6 +32,7 @@
     <sprite>sprites\cursor</sprite>
     <sprite>sprites\X</sprite>
     <sprite>sprites\cblock</sprite>
+    <sprite>sprites\tricursor</sprite>
     <sprite>sprites\V</sprite>
     <sprite>sprites\locked</sprite>
     <sprite>sprites\coin</sprite>
