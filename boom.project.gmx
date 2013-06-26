@@ -23,6 +23,7 @@
     <sprite>sprites\ytopr</sprite>
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
+    <sprite>sprites\rtri</sprite>
     <sprite>sprites\bigbox</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
@@ -77,6 +78,7 @@
     <object>objects\wallsloper</object>
     <object>objects\blocklock</object>
     <object>objects\toboom</object>
+    <object>objects\triangle</object>
     <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
