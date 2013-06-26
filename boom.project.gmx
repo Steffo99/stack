@@ -24,6 +24,7 @@
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\rtri</sprite>
+    <sprite>sprites\octo</sprite>
     <sprite>sprites\bigbox</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
@@ -80,6 +81,7 @@
     <object>objects\blocklock</object>
     <object>objects\toboom</object>
     <object>objects\triangle</object>
+    <object>objects\stackball</object>
     <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
