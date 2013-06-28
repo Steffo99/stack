@@ -23,12 +23,13 @@
     <sprite>sprites\ytopr</sprite>
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
-    <sprite>sprites\rtri</sprite>
     <sprite>sprites\octo</sprite>
-    <sprite>sprites\bigbox</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
+    <sprite>sprites\pallinacarta</sprite>
+    <sprite>sprites\libro_mate</sprite>
+    <sprite>sprites\rtri</sprite>
     <sprite>sprites\explosion</sprite>
     <sprite>sprites\cursor</sprite>
     <sprite>sprites\X</sprite>
@@ -48,6 +49,7 @@
     <script>scripts\loadrecord.gml</script>
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
+    <script>scripts\selnames_init.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -57,14 +59,10 @@
     <object>objects\nbomb</object>
     <object>objects\dbomb</object>
     <object>objects\menuball</object>
-    <object>objects\money</object>
     <object>objects\boom</object>
     <object>objects\menus</object>
     <object>objects\placer</object>
     <object>objects\strategy</object>
-    <object>objects\stack</object>
-    <object>objects\wall</object>
-    <object>objects\wclassic</object>
     <object>objects\wsandbox</object>
     <object>objects\gotostack</object>
     <object>objects\goto_twotris</object>
@@ -74,19 +72,29 @@
     <object>objects\goto_sandbox</object>
     <object>objects\goto_stairs</object>
     <object>objects\gotoboom</object>
-    <object>objects\wallslopel</object>
-    <object>objects\walltopl</object>
-    <object>objects\walltopr</object>
-    <object>objects\wallsloper</object>
     <object>objects\blocklock</object>
-    <object>objects\toboom</object>
-    <object>objects\triangle</object>
-    <object>objects\stackball</object>
-    <object>objects\box</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
-    <object>objects\magnet</object>
     <object>objects\debugobj</object>
+    <objects name="Stack">
+      <object>objects\stack</object>
+      <object>objects\wall</object>
+      <object>objects\wclassic</object>
+      <object>objects\wallslopel</object>
+      <object>objects\walltopl</object>
+      <object>objects\walltopr</object>
+      <object>objects\wallsloper</object>
+      <object>objects\magnet</object>
+      <object>objects\money</object>
+      <objects name="Oggetti">
+        <object>objects\stackdrop</object>
+        <object>objects\squadraL</object>
+        <object>objects\gomma</object>
+        <object>objects\pallinacartas</object>
+        <object>objects\moneta</object>
+        <object>objects\libro</object>
+      </objects>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
