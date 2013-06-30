@@ -29,6 +29,7 @@
     <sprite>sprites\lball</sprite>
     <sprite>sprites\pallinacarta</sprite>
     <sprite>sprites\libro_mate</sprite>
+    <sprite>sprites\temper</sprite>
     <sprite>sprites\rtri</sprite>
     <sprite>sprites\explosion</sprite>
     <sprite>sprites\cursor</sprite>
@@ -93,6 +94,7 @@
         <object>objects\pallinacartas</object>
         <object>objects\moneta</object>
         <object>objects\libro</object>
+        <object>objects\temperino</object>
       </objects>
     </objects>
   </objects>
