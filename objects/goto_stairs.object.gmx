@@ -8,7 +8,7 @@
   <parentName>&lt;undefined&gt;</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="4" ename="menuball">
+    <event eventtype="4" ename="stackdrop">
       <action>
         <libid>1</libid>
         <id>224</id>

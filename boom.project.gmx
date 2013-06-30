@@ -66,13 +66,13 @@
     <object>objects\placer</object>
     <object>objects\strategy</object>
     <object>objects\gotostack</object>
+    <object>objects\gotoboom</object>
     <object>objects\goto_twotris</object>
     <object>objects\goto_sidewalls</object>
     <object>objects\goto_maxi</object>
     <object>objects\goto_classic</object>
     <object>objects\goto_stairs</object>
     <object>objects\goto_sandbox</object>
-    <object>objects\gotoboom</object>
     <object>objects\blocklock</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
