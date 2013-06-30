@@ -30,6 +30,7 @@
     <sprite>sprites\bigball</sprite>
     <sprite>sprites\pallinacarta</sprite>
     <sprite>sprites\libro_mate</sprite>
+    <sprite>sprites\matitasp</sprite>
     <sprite>sprites\temper</sprite>
     <sprite>sprites\rtri</sprite>
     <sprite>sprites\explosion</sprite>
@@ -52,6 +53,7 @@
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
     <script>scripts\selnames_init.gml</script>
+    <script>scripts\scrcursor.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -95,6 +97,7 @@
         <object>objects\pallinacartas</object>
         <object>objects\moneta</object>
         <object>objects\libro</object>
+        <object>objects\matita</object>
         <object>objects\temperino</object>
         <object>objects\gommag</object>
       </objects>
