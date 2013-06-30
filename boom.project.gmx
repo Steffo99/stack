@@ -24,6 +24,7 @@
     <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\octo</sprite>
+    <sprite>sprites\radio</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
@@ -49,6 +50,8 @@
     <script>scripts\togglefullscreen.gml</script>
     <script>scripts\init.gml</script>
     <script>scripts\scrcursor.gml</script>
+    <script>scripts\rollL.gml</script>
+    <script>scripts\rollR.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -94,6 +97,7 @@
         <object>objects\libro</object>
         <object>objects\temperino</object>
         <object>objects\gommag</object>
+        <object>objects\specialroll</object>
         <object>objects\matita</object>
         <object>objects\moon</object>
       </objects>
