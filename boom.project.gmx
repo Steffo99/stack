@@ -34,11 +34,6 @@
     <sprite>sprites\temper</sprite>
     <sprite>sprites\rtri</sprite>
     <sprite>sprites\explosion</sprite>
-    <sprite>sprites\cursor</sprite>
-    <sprite>sprites\X</sprite>
-    <sprite>sprites\cblock</sprite>
-    <sprite>sprites\tricursor</sprite>
-    <sprite>sprites\V</sprite>
     <sprite>sprites\locked</sprite>
     <sprite>sprites\coin</sprite>
   </sprites>
@@ -67,14 +62,13 @@
     <object>objects\menus</object>
     <object>objects\placer</object>
     <object>objects\strategy</object>
-    <object>objects\wsandbox</object>
     <object>objects\gotostack</object>
     <object>objects\goto_twotris</object>
     <object>objects\goto_sidewalls</object>
     <object>objects\goto_maxi</object>
     <object>objects\goto_classic</object>
-    <object>objects\goto_sandbox</object>
     <object>objects\goto_stairs</object>
+    <object>objects\goto_sandbox</object>
     <object>objects\gotoboom</object>
     <object>objects\blocklock</object>
     <object>objects\text</object>
@@ -84,6 +78,7 @@
       <object>objects\stack</object>
       <object>objects\wall</object>
       <object>objects\wclassic</object>
+      <object>objects\wsandbox</object>
       <object>objects\wallslopel</object>
       <object>objects\walltopl</object>
       <object>objects\walltopr</object>
