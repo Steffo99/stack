@@ -28,6 +28,7 @@
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
     <sprite>sprites\bigball</sprite>
+    <sprite>sprites\moonball</sprite>
     <sprite>sprites\pallinacarta</sprite>
     <sprite>sprites\libro_mate</sprite>
     <sprite>sprites\matitasp</sprite>
@@ -44,10 +45,9 @@
     <script>scripts\saveX.gml</script>
     <script>scripts\resetrecord.gml</script>
     <script>scripts\resetX.gml</script>
-    <script>scripts\loadrecord.gml</script>
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
-    <script>scripts\selnames_init.gml</script>
+    <script>scripts\init.gml</script>
     <script>scripts\scrcursor.gml</script>
   </scripts>
   <fonts name="fonts">
@@ -92,9 +92,10 @@
         <object>objects\pallinacartas</object>
         <object>objects\moneta</object>
         <object>objects\libro</object>
-        <object>objects\matita</object>
         <object>objects\temperino</object>
         <object>objects\gommag</object>
+        <object>objects\matita</object>
+        <object>objects\moon</object>
       </objects>
     </objects>
   </objects>
