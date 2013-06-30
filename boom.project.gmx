@@ -6,22 +6,7 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\ytile</sprite>
-    <sprite>sprites\t_maxi</sprite>
-    <sprite>sprites\t_sidewalls</sprite>
-    <sprite>sprites\t_twotris</sprite>
-    <sprite>sprites\t_classic</sprite>
-    <sprite>sprites\t_sandbox</sprite>
-    <sprite>sprites\t_stairs</sprite>
     <sprite>sprites\up</sprite>
-    <sprite>sprites\bclassic</sprite>
-    <sprite>sprites\bsandbox</sprite>
-    <sprite>sprites\bsidewalls1</sprite>
-    <sprite>sprites\bsidewalls2</sprite>
-    <sprite>sprites\yslabl</sprite>
-    <sprite>sprites\ytopl</sprite>
-    <sprite>sprites\ytopr</sprite>
-    <sprite>sprites\yslabr</sprite>
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\octo</sprite>
     <sprite>sprites\radio</sprite>
@@ -38,6 +23,23 @@
     <sprite>sprites\explosion</sprite>
     <sprite>sprites\locked</sprite>
     <sprite>sprites\coin</sprite>
+    <sprites name="Tiles">
+      <sprite>sprites\ytile</sprite>
+      <sprite>sprites\t_maxi</sprite>
+      <sprite>sprites\t_sidewalls</sprite>
+      <sprite>sprites\t_twotris</sprite>
+      <sprite>sprites\t_classic</sprite>
+      <sprite>sprites\t_sandbox</sprite>
+      <sprite>sprites\t_stairs</sprite>
+      <sprite>sprites\bclassic</sprite>
+      <sprite>sprites\bsandbox</sprite>
+      <sprite>sprites\bsidewalls1</sprite>
+      <sprite>sprites\bsidewalls2</sprite>
+      <sprite>sprites\yslabl</sprite>
+      <sprite>sprites\ytopl</sprite>
+      <sprite>sprites\ytopr</sprite>
+      <sprite>sprites\yslabr</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -58,6 +60,37 @@
     <font>fonts\devbeaten</font>
   </fonts>
   <objects name="objects">
+    <objects name="Oggetti">
+      <object>objects\stackdrop</object>
+      <object>objects\squadraL</object>
+      <object>objects\gomma</object>
+      <object>objects\pallinacartas</object>
+      <object>objects\moneta</object>
+      <object>objects\libro</object>
+      <object>objects\temperino</object>
+      <object>objects\gommag</object>
+      <object>objects\specialroll</object>
+      <object>objects\matita</object>
+      <object>objects\moon</object>
+    </objects>
+    <objects name="Pezzi">
+      <object>objects\wall</object>
+      <object>objects\gotostack</object>
+      <object>objects\gotoboom</object>
+      <object>objects\wclassic</object>
+      <object>objects\wsandbox</object>
+      <object>objects\wallslopel</object>
+      <object>objects\walltopl</object>
+      <object>objects\walltopr</object>
+      <object>objects\wallsloper</object>
+      <object>objects\goto_twotris</object>
+      <object>objects\goto_maxi</object>
+      <object>objects\goto_sidewalls</object>
+      <object>objects\goto_classic</object>
+      <object>objects\goto_sandbox</object>
+      <object>objects\goto_stairs</object>
+      <object>objects\blocklock</object>
+    </objects>
     <object>objects\nbomb</object>
     <object>objects\dbomb</object>
     <object>objects\menuball</object>
@@ -65,42 +98,13 @@
     <object>objects\menus</object>
     <object>objects\placer</object>
     <object>objects\strategy</object>
-    <object>objects\gotostack</object>
-    <object>objects\gotoboom</object>
-    <object>objects\goto_twotris</object>
-    <object>objects\goto_sidewalls</object>
-    <object>objects\goto_maxi</object>
-    <object>objects\goto_classic</object>
-    <object>objects\goto_stairs</object>
-    <object>objects\goto_sandbox</object>
-    <object>objects\blocklock</object>
     <object>objects\text</object>
     <object>objects\btotal</object>
     <object>objects\debugobj</object>
     <objects name="Stack">
       <object>objects\stack</object>
-      <object>objects\wall</object>
-      <object>objects\wclassic</object>
-      <object>objects\wsandbox</object>
-      <object>objects\wallslopel</object>
-      <object>objects\walltopl</object>
-      <object>objects\walltopr</object>
-      <object>objects\wallsloper</object>
       <object>objects\magnet</object>
       <object>objects\money</object>
-      <objects name="Oggetti">
-        <object>objects\stackdrop</object>
-        <object>objects\squadraL</object>
-        <object>objects\gomma</object>
-        <object>objects\pallinacartas</object>
-        <object>objects\moneta</object>
-        <object>objects\libro</object>
-        <object>objects\temperino</object>
-        <object>objects\gommag</object>
-        <object>objects\specialroll</object>
-        <object>objects\matita</object>
-        <object>objects\moon</object>
-      </objects>
     </objects>
   </objects>
   <rooms name="rooms">
