@@ -21,10 +21,12 @@
     <sprite>sprites\temper</sprite>
     <sprite>sprites\rtri</sprite>
     <sprite>sprites\explosion</sprite>
-    <sprite>sprites\locked</sprite>
     <sprite>sprites\coin</sprite>
     <sprites name="Tiles">
       <sprite>sprites\ytile</sprite>
+      <sprite>sprites\totemA</sprite>
+      <sprite>sprites\totemB</sprite>
+      <sprite>sprites\totemC</sprite>
       <sprite>sprites\t_maxi</sprite>
       <sprite>sprites\t_sidewalls</sprite>
       <sprite>sprites\t_twotris</sprite>
@@ -39,6 +41,7 @@
       <sprite>sprites\ytopl</sprite>
       <sprite>sprites\ytopr</sprite>
       <sprite>sprites\yslabr</sprite>
+      <sprite>sprites\locked</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -72,6 +75,8 @@
       <object>objects\specialroll</object>
       <object>objects\matita</object>
       <object>objects\moon</object>
+      <object>objects\nbomb</object>
+      <object>objects\dbomb</object>
     </objects>
     <objects name="Pezzi">
       <object>objects\wall</object>
@@ -90,20 +95,17 @@
       <object>objects\goto_sandbox</object>
       <object>objects\goto_stairs</object>
       <object>objects\blocklock</object>
-    </objects>
-    <object>objects\nbomb</object>
-    <object>objects\dbomb</object>
-    <object>objects\menuball</object>
-    <object>objects\boom</object>
-    <object>objects\menus</object>
-    <object>objects\placer</object>
-    <object>objects\strategy</object>
-    <object>objects\text</object>
-    <object>objects\btotal</object>
-    <object>objects\debugobj</object>
-    <objects name="Stack">
-      <object>objects\stack</object>
       <object>objects\magnet</object>
+    </objects>
+    <objects name="Script">
+      <object>objects\menus</object>
+      <object>objects\placer</object>
+      <object>objects\text</object>
+      <object>objects\btotal</object>
+      <object>objects\stack</object>
+      <object>objects\debugobj</object>
+      <object>objects\strategy</object>
+      <object>objects\boom</object>
       <object>objects\money</object>
     </objects>
   </objects>
