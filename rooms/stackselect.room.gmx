@@ -189,11 +189,6 @@
     <instance objName="wall" x="128" y="288" name="inst_7C9DF6F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wall" x="96" y="288" name="inst_8F05F536" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="specialroll" x="608" y="96" name="inst_C51EDD6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="blocklock" x="64" y="384" name="inst_B18C2A02" locked="0" code="topass = 25;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="blocklock" x="160" y="384" name="inst_D388CD50" locked="0" code="topass = 100;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="blocklock" x="256" y="384" name="inst_263D681B" locked="0" code="topass = 350;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="blocklock" x="448" y="384" name="inst_84F55DE0" locked="0" code="topass = 1000;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="blocklock" x="544" y="384" name="inst_BA12D340" locked="0" code="topass = 50;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
