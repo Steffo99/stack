@@ -617,7 +617,7 @@ instance_create(mouse_x,mouse_y,stack_names[selected]);
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>&lt;undefined&gt;</script>
+            <script>init</script>
           </argument>
           <argument>
             <kind>0</kind>
