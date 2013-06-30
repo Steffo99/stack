@@ -27,6 +27,7 @@
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
+    <sprite>sprites\bigball</sprite>
     <sprite>sprites\pallinacarta</sprite>
     <sprite>sprites\libro_mate</sprite>
     <sprite>sprites\temper</sprite>
@@ -95,6 +96,7 @@
         <object>objects\moneta</object>
         <object>objects\libro</object>
         <object>objects\temperino</object>
+        <object>objects\gommag</object>
       </objects>
     </objects>
   </objects>

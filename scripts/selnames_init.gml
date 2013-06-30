@@ -7,3 +7,4 @@ stack_names[2] = pallinacartas;
 stack_names[3] = moneta;
 stack_names[4] = libro;
 stack_names[5] = temperino;
+stack_names[6] = gommag;
