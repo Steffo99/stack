@@ -179,7 +179,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>stackdrop</object>
+            <object>o_generale</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -313,7 +313,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>dbomb</object>
+            <object>o_esplosivo</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -423,7 +423,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>nbomb</object>
+            <object>o_bomba</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -519,7 +519,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>stackdrop</object>
+            <object>o_generale</object>
           </argument>
           <argument>
             <kind>0</kind>

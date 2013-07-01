@@ -11,6 +11,7 @@
     <sprite>sprites\octo</sprite>
     <sprite>sprites\radio</sprite>
     <sprite>sprites\radiocube</sprite>
+    <sprite>sprites\radiotri</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
@@ -76,16 +77,13 @@
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
       </objects>
-      <objects name="Gomme">
-        <object>objects\o_gomma_piccola</object>
-        <object>objects\o_gomma_grande</object>
-      </objects>
-      <objects name="Carta">
-        <object>objects\o_carta_palla</object>
-      </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
         <object>objects\o_radio_cubo</object>
+        <object>objects\o_radio_triangolo</object>
+      </objects>
+      <objects name="Carta">
+        <object>objects\o_carta_palla</object>
       </objects>
       <objects name="Totem">
         <object>objects\o_totem_A</object>
@@ -98,10 +96,10 @@
         <object>objects\o_totem_H</object>
         <object>objects\o_totem_I</object>
         <object>objects\o_totem_J</object>
-      </objects>
-      <objects name="Esplosivo">
-        <object>objects\o_bomba</object>
-        <object>objects\o_esplosivo</object>
+        <objects name="Gomme">
+          <object>objects\o_gomma_piccola</object>
+          <object>objects\o_gomma_grande</object>
+        </objects>
       </objects>
       <objects name="Scuola">
         <objects name="Libri">
@@ -110,11 +108,15 @@
         <object>objects\o_matita</object>
         <object>objects\o_temperino</object>
       </objects>
-      <objects name="Paracadute">
-        <object>objects\o_paracadute</object>
+      <objects name="Esplosivo">
+        <object>objects\o_bomba</object>
+        <object>objects\o_esplosivo</object>
       </objects>
       <objects name="Metallo">
         <object>objects\o_moneta</object>
+      </objects>
+      <objects name="Paracadute">
+        <object>objects\o_paracadute</object>
       </objects>
     </objects>
     <objects name="Pezzi">
