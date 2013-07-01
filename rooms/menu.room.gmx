@@ -175,7 +175,7 @@
     <instance objName="walltopl" x="192" y="416" name="inst_C2BA8B62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="walltopl" x="160" y="448" name="inst_F6B1029B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="debugobj" x="0" y="32" name="inst_B5B91240" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="specialroll" x="320" y="32" name="inst_BDC71917" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_radio_palla" x="320" y="32" name="inst_BDC71917" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallslopel" x="352" y="64" name="inst_0D69800F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallslopel" x="384" y="96" name="inst_08D4BB7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="wallsloper" x="288" y="64" name="inst_D9B1B670" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

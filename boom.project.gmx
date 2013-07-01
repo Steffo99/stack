@@ -10,6 +10,7 @@
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\octo</sprite>
     <sprite>sprites\radio</sprite>
+    <sprite>sprites\radiocube</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
@@ -71,29 +72,50 @@
   </fonts>
   <objects name="objects">
     <objects name="Oggetti">
-      <object>objects\stackdrop</object>
-      <object>objects\squadraL</object>
-      <object>objects\gomma</object>
-      <object>objects\pallinacartas</object>
-      <object>objects\moneta</object>
-      <object>objects\libro</object>
-      <object>objects\temperino</object>
-      <object>objects\gommag</object>
-      <object>objects\specialroll</object>
-      <object>objects\matita</object>
-      <object>objects\moon</object>
-      <object>objects\nbomb</object>
-      <object>objects\dbomb</object>
-      <object>objects\otA</object>
-      <object>objects\otB</object>
-      <object>objects\otC</object>
-      <object>objects\otD</object>
-      <object>objects\otE</object>
-      <object>objects\otF</object>
-      <object>objects\otG</object>
-      <object>objects\otH</object>
-      <object>objects\otI</object>
-      <object>objects\otJ</object>
+      <object>objects\o_generale</object>
+      <objects name="Squadre">
+        <object>objects\o_squadra_sin</object>
+      </objects>
+      <objects name="Gomme">
+        <object>objects\o_gomma_piccola</object>
+        <object>objects\o_gomma_grande</object>
+      </objects>
+      <objects name="Carta">
+        <object>objects\o_carta_palla</object>
+      </objects>
+      <objects name="Radio">
+        <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_cubo</object>
+      </objects>
+      <objects name="Totem">
+        <object>objects\o_totem_A</object>
+        <object>objects\o_totem_B</object>
+        <object>objects\o_totem_C</object>
+        <object>objects\o_totem_D</object>
+        <object>objects\o_totem_E</object>
+        <object>objects\o_totem_F</object>
+        <object>objects\o_totem_G</object>
+        <object>objects\o_totem_H</object>
+        <object>objects\o_totem_I</object>
+        <object>objects\o_totem_J</object>
+      </objects>
+      <objects name="Esplosivo">
+        <object>objects\o_bomba</object>
+        <object>objects\o_esplosivo</object>
+      </objects>
+      <objects name="Scuola">
+        <objects name="Libri">
+          <object>objects\o_libro_mate</object>
+        </objects>
+        <object>objects\o_matita</object>
+        <object>objects\o_temperino</object>
+      </objects>
+      <objects name="Paracadute">
+        <object>objects\o_paracadute</object>
+      </objects>
+      <objects name="Metallo">
+        <object>objects\o_moneta</object>
+      </objects>
     </objects>
     <objects name="Pezzi">
       <object>objects\wall</object>
