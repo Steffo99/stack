@@ -23,6 +23,7 @@
     <sprite>sprites\matitasp</sprite>
     <sprite>sprites\temper</sprite>
     <sprite>sprites\rtri</sprite>
+    <sprite>sprites\ltri</sprite>
     <sprite>sprites\explosion</sprite>
     <sprite>sprites\coin</sprite>
     <sprites name="Tiles">
@@ -77,6 +78,7 @@
       <object>objects\o_generale</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
+        <object>objects\o_squadra_des</object>
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
