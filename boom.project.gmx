@@ -12,6 +12,7 @@
     <sprite>sprites\radio</sprite>
     <sprite>sprites\radiocube</sprite>
     <sprite>sprites\radiotri</sprite>
+    <sprite>sprites\radiotriq</sprite>
     <sprite>sprites\rbomb</sprite>
     <sprite>sprites\obomb</sprite>
     <sprite>sprites\lball</sprite>
@@ -81,6 +82,7 @@
         <object>objects\o_radio_palla</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
+        <object>objects\o_radio_triangolo_2</object>
       </objects>
       <objects name="Carta">
         <object>objects\o_carta_palla</object>
