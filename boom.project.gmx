@@ -84,6 +84,16 @@
       <object>objects\moon</object>
       <object>objects\nbomb</object>
       <object>objects\dbomb</object>
+      <object>objects\otA</object>
+      <object>objects\otB</object>
+      <object>objects\otC</object>
+      <object>objects\otD</object>
+      <object>objects\otE</object>
+      <object>objects\otF</object>
+      <object>objects\otG</object>
+      <object>objects\otH</object>
+      <object>objects\otI</object>
+      <object>objects\otJ</object>
     </objects>
     <objects name="Pezzi">
       <object>objects\wall</object>
