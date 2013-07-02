@@ -50,7 +50,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="magnet">
+    <event eventtype="4" ename="o_magnet">
       <action>
         <libid>1</libid>
         <id>603</id>

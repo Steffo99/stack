@@ -255,7 +255,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>collision_point(mouse_x, mouse_y, wall, false, true)</string>
+            <string>collision_point(mouse_x, mouse_y, o_wall_inv, false, true)</string>
           </argument>
           <argument>
             <kind>0</kind>
