@@ -69,6 +69,7 @@
     <script>scripts\scrcursor.gml</script>
     <script>scripts\rollL.gml</script>
     <script>scripts\rollR.gml</script>
+    <script>scripts\rocketup.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
