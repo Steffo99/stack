@@ -51,10 +51,10 @@
   </views>
   <instances>
     <instance objName="stack" x="0" y="0" name="inst_42583382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="32" y="448" name="inst_1B6A287E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="608" y="448" name="inst_04021D6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="64" y="352" name="inst_CB405B18" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="576" y="352" name="inst_C20AC321" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv" x="32" y="448" name="inst_1B6A287E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv" x="608" y="448" name="inst_04021D6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv" x="64" y="352" name="inst_CB405B18" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv" x="576" y="352" name="inst_C20AC321" locked="0" code="" scaleX="1" scaleY="7" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

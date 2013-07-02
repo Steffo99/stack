@@ -51,7 +51,7 @@
   </views>
   <instances>
     <instance objName="stack" x="0" y="0" name="inst_42583382" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="wall" x="320" y="256" name="inst_CB405B18" locked="0" code="" scaleX="7" scaleY="7" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv" x="320" y="256" name="inst_CB405B18" locked="0" code="" scaleX="7" scaleY="7" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

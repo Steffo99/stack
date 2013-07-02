@@ -76,6 +76,7 @@
   <objects name="objects">
     <objects name="Oggetti">
       <object>objects\o_generale</object>
+      <object>objects\o_wall_norm</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
         <object>objects\o_squadra_des</object>
@@ -124,23 +125,23 @@
       </objects>
     </objects>
     <objects name="Pezzi">
-      <object>objects\wall</object>
-      <object>objects\gotostack</object>
-      <object>objects\gotoboom</object>
-      <object>objects\wclassic</object>
-      <object>objects\wsandbox</object>
-      <object>objects\wallslopel</object>
-      <object>objects\walltopl</object>
-      <object>objects\walltopr</object>
-      <object>objects\wallsloper</object>
-      <object>objects\goto_twotris</object>
-      <object>objects\goto_maxi</object>
-      <object>objects\goto_sidewalls</object>
-      <object>objects\goto_classic</object>
-      <object>objects\goto_sandbox</object>
-      <object>objects\goto_stairs</object>
-      <object>objects\blocklock</object>
-      <object>objects\magnet</object>
+      <object>objects\o_wall_inv</object>
+      <object>objects\o_move_freeplay_levels</object>
+      <object>objects\o_move_strategy</object>
+      <object>objects\o_wall_inv_classic</object>
+      <object>objects\o_wall_inv_sandbox</object>
+      <object>objects\o_wall_inv_L_D</object>
+      <object>objects\o_wall_inv_L_U</object>
+      <object>objects\o_wall_inv_R_U</object>
+      <object>objects\o_wall_inv_R_D</object>
+      <object>objects\o_move_twotris</object>
+      <object>objects\o_move_maxi</object>
+      <object>objects\o_move_sidewalls</object>
+      <object>objects\o_move_classic</object>
+      <object>objects\o_move_sandbox</object>
+      <object>objects\o_move_stairs</object>
+      <object>objects\o_wall_inv_lock</object>
+      <object>objects\o_magnet</object>
     </objects>
     <objects name="Script">
       <object>objects\menus</object>
