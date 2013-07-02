@@ -10,6 +10,7 @@
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\octo</sprite>
     <sprite>sprites\radio</sprite>
+    <sprite>sprites\bigsphere</sprite>
     <sprite>sprites\radiocube</sprite>
     <sprite>sprites\radiotri</sprite>
     <sprite>sprites\radiotriq</sprite>
@@ -83,6 +84,7 @@
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
         <object>objects\o_radio_triangolo_2</object>
