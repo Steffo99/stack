@@ -593,7 +593,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>rbomb</sprite>
+            <sprite>i_red_miniball</sprite>
           </argument>
           <argument>
             <kind>0</kind>
@@ -677,7 +677,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>obomb</sprite>
+            <sprite>i_orange_miniball</sprite>
           </argument>
           <argument>
             <kind>0</kind>

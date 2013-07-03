@@ -403,7 +403,7 @@ instance_create(mouse_x,mouse_y,stack_names[selected]);
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>rtile</sprite>
+            <sprite>i_red_box</sprite>
           </argument>
           <argument>
             <kind>0</kind>

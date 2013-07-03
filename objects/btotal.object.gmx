@@ -69,7 +69,7 @@
         <arguments>
           <argument>
             <kind>5</kind>
-            <sprite>coin</sprite>
+            <sprite>i_moneta</sprite>
           </argument>
           <argument>
             <kind>0</kind>
