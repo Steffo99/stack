@@ -10,6 +10,7 @@
     <sprite>sprites\rtile</sprite>
     <sprite>sprites\octo</sprite>
     <sprite>sprites\radio</sprite>
+    <sprite>sprites\mousefollow</sprite>
     <sprite>sprites\bigsphere</sprite>
     <sprite>sprites\radiocube</sprite>
     <sprite>sprites\radiotri</sprite>
@@ -60,8 +61,8 @@
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\saverecord.gml</script>
-    <script>scripts\saveX.gml</script>
     <script>scripts\resetrecord.gml</script>
+    <script>scripts\saveX.gml</script>
     <script>scripts\resetX.gml</script>
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
@@ -70,6 +71,7 @@
     <script>scripts\rollL.gml</script>
     <script>scripts\rollR.gml</script>
     <script>scripts\rocketup.gml</script>
+    <script>scripts\localrocket.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -85,6 +87,7 @@
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_local</object>
         <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
