@@ -66,7 +66,7 @@
     <script>scripts\resetX.gml</script>
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
-    <script>scripts\init.gml</script>
+    <script>scripts\m_stack_init.gml</script>
     <script>scripts\scrcursor.gml</script>
     <script>scripts\rollL.gml</script>
     <script>scripts\rollR.gml</script>
