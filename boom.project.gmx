@@ -87,7 +87,6 @@
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
-        <object>objects\o_radio_local</object>
         <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
@@ -107,10 +106,6 @@
         <object>objects\o_totem_H</object>
         <object>objects\o_totem_I</object>
         <object>objects\o_totem_J</object>
-        <objects name="Gomme">
-          <object>objects\o_gomma_piccola</object>
-          <object>objects\o_gomma_grande</object>
-        </objects>
       </objects>
       <objects name="Scuola">
         <objects name="Libri">
@@ -128,6 +123,10 @@
       </objects>
       <objects name="Paracadute">
         <object>objects\o_paracadute</object>
+      </objects>
+      <objects name="Gomme">
+        <object>objects\o_gomma_piccola</object>
+        <object>objects\o_gomma_grande</object>
       </objects>
     </objects>
     <objects name="Pezzi">
