@@ -67,6 +67,7 @@
     <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
     <script>scripts\m_stack_init.gml</script>
+    <script>scripts\m_totem_init.gml</script>
     <script>scripts\scrcursor.gml</script>
     <script>scripts\rollL.gml</script>
     <script>scripts\rollR.gml</script>
@@ -154,6 +155,7 @@
       <object>objects\text</object>
       <object>objects\btotal</object>
       <object>objects\stack</object>
+      <object>objects\m_totem</object>
       <object>objects\debugobj</object>
       <object>objects\strategy</object>
       <object>objects\boom</object>
@@ -163,6 +165,7 @@
   <rooms name="rooms">
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
+    <room>rooms\t_classic</room>
     <room>rooms\boomer</room>
     <rooms name="Stack">
       <room>rooms\s_twotris</room>
