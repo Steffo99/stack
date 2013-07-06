@@ -49,7 +49,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>init</script>
+            <script>m_stack_init</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -617,7 +617,7 @@ instance_create(mouse_x,mouse_y,stack_names[selected]);
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>init</script>
+            <script>m_stack_init</script>
           </argument>
           <argument>
             <kind>0</kind>

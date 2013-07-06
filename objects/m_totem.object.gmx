@@ -115,8 +115,8 @@ instance_create(mouse_x,mouse_y,totem_list[selected]);
 pile = pile + 1;
 //Seleziona un altro totem casuale.
 selected = irandom(totalitems);
-//Metti il mouse in una posizione casuale sullo schermo. Bwhahaha!
-display_mouse_set(irandom(640), irandom(480));
+/*Metti il mouse in una posizione casuale sullo schermo. Bwhahaha!
+display_mouse_set(irandom(640), irandom(480));*/
 </string>
           </argument>
         </arguments>
@@ -157,7 +157,7 @@ display_mouse_set(irandom(640), irandom(480));
           </argument>
           <argument>
             <kind>4</kind>
-            <string>0</string>
+            <string>1</string>
           </argument>
         </arguments>
       </action>
@@ -222,47 +222,7 @@ display_mouse_set(irandom(640), irandom(480));
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>601</id>
-        <kind>0</kind>
-        <userelative>0</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_execute_script</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>9</kind>
-            <script>totemcursor</script>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>0</string>
+            <string>320</string>
           </argument>
           <argument>
             <kind>0</kind>

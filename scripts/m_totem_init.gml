@@ -15,8 +15,8 @@ totem_list[6] = o_totem_G;
 totem_list[7] = o_totem_H;
 totem_list[8] = o_totem_I;
 totem_list[9] = o_totem_J;
-//Disattiva il mouse normale visto che viene generato automaticamente.
-window_set_cursor(cr_none);
+//Cambia il mouse.
+window_set_cursor(cr_cross);
 //Apri il file di salvataggio, carica il record e chiudi il file.
 ini_open("savefile.ini");
 m_totem.blocksr = ini_read_real("Totem",room_get_name(room),"0");
