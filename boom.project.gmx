@@ -165,6 +165,7 @@
       <object>objects\strategy</object>
       <object>objects\boom</object>
       <object>objects\money</object>
+      <object>objects\d_fix_count_ent</object>
     </objects>
   </objects>
   <rooms name="rooms">
