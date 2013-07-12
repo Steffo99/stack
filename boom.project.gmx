@@ -60,6 +60,20 @@
         <sprite>sprites\i_totemJ</sprite>
         <sprite>sprites\i_totemK</sprite>
         <sprite>sprites\i_totemL</sprite>
+        <sprite>sprites\i_totemM</sprite>
+        <sprite>sprites\i_totemN</sprite>
+        <sprite>sprites\i_totemO</sprite>
+        <sprite>sprites\i_totemP</sprite>
+        <sprite>sprites\i_totemQ</sprite>
+        <sprite>sprites\i_totemR</sprite>
+        <sprite>sprites\i_totemS</sprite>
+        <sprite>sprites\i_totemT</sprite>
+        <sprite>sprites\i_totemU</sprite>
+        <sprite>sprites\i_totemV</sprite>
+        <sprite>sprites\i_totemW</sprite>
+        <sprite>sprites\i_totemX</sprite>
+        <sprite>sprites\i_totemY</sprite>
+        <sprite>sprites\i_totemZ</sprite>
       </sprites>
       <sprites name="Metal">
         <sprite>sprites\i_m_totemA</sprite>
