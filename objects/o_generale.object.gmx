@@ -138,7 +138,7 @@
         <functionname>action_move_to</functionname>
         <codestring></codestring>
         <whoName>following</whoName>
-        <relative>0</relative>
+        <relative>-1</relative>
         <isnot>0</isnot>
         <arguments>
           <argument>
