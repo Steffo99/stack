@@ -58,6 +58,8 @@
         <sprite>sprites\i_totemH</sprite>
         <sprite>sprites\i_totemI</sprite>
         <sprite>sprites\i_totemJ</sprite>
+        <sprite>sprites\i_totemK</sprite>
+        <sprite>sprites\i_totemL</sprite>
       </sprites>
       <sprites name="Metal">
         <sprite>sprites\i_m_totemA</sprite>
@@ -128,9 +130,8 @@
           <object>objects\o_totem_H</object>
           <object>objects\o_totem_I</object>
           <object>objects\o_totem_J</object>
-        </objects>
-        <objects name="Metal">
-          <object>objects\o_m_totemA</object>
+          <object>objects\o_totem_K</object>
+          <object>objects\o_totem_L</object>
         </objects>
       </objects>
       <objects name="Scuola">
