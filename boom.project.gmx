@@ -85,6 +85,7 @@
       <object>objects\o_clock_sec</object>
       <object>objects\o_clock_min</object>
       <object>objects\o_clock_hou</object>
+      <object>objects\o_count_ent</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
         <object>objects\o_squadra_des</object>
