@@ -30,16 +30,6 @@
     <sprite>sprites\i_clock_100_yellow</sprite>
     <sprites name="Tiles">
       <sprite>sprites\i_blocco</sprite>
-      <sprite>sprites\i_totemA</sprite>
-      <sprite>sprites\i_totemB</sprite>
-      <sprite>sprites\i_totemC</sprite>
-      <sprite>sprites\i_totemD</sprite>
-      <sprite>sprites\i_totemE</sprite>
-      <sprite>sprites\i_totemF</sprite>
-      <sprite>sprites\i_totemG</sprite>
-      <sprite>sprites\i_totemH</sprite>
-      <sprite>sprites\i_totemI</sprite>
-      <sprite>sprites\i_totemJ</sprite>
       <sprite>sprites\i_maxi</sprite>
       <sprite>sprites\i_sidewalls</sprite>
       <sprite>sprites\i_twotris</sprite>
@@ -55,6 +45,32 @@
       <sprite>sprites\i_half_R_U</sprite>
       <sprite>sprites\i_half_R_D</sprite>
       <sprite>sprites\i_locked</sprite>
+    </sprites>
+    <sprites name="TotemParts">
+      <sprites name="Wood">
+        <sprite>sprites\i_totemA</sprite>
+        <sprite>sprites\i_totemB</sprite>
+        <sprite>sprites\i_totemC</sprite>
+        <sprite>sprites\i_totemD</sprite>
+        <sprite>sprites\i_totemE</sprite>
+        <sprite>sprites\i_totemF</sprite>
+        <sprite>sprites\i_totemG</sprite>
+        <sprite>sprites\i_totemH</sprite>
+        <sprite>sprites\i_totemI</sprite>
+        <sprite>sprites\i_totemJ</sprite>
+      </sprites>
+      <sprites name="Metal">
+        <sprite>sprites\i_m_totemA</sprite>
+        <sprite>sprites\i_m_totemB</sprite>
+        <sprite>sprites\i_m_totemC</sprite>
+        <sprite>sprites\i_m_totemD</sprite>
+        <sprite>sprites\i_m_totemE</sprite>
+        <sprite>sprites\i_m_totemF</sprite>
+        <sprite>sprites\i_m_totemG</sprite>
+        <sprite>sprites\i_m_totemH</sprite>
+        <sprite>sprites\i_m_totemI</sprite>
+        <sprite>sprites\i_m_totemJ</sprite>
+      </sprites>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -101,16 +117,21 @@
         <object>objects\o_carta_palla</object>
       </objects>
       <objects name="Totem">
-        <object>objects\o_totem_A</object>
-        <object>objects\o_totem_B</object>
-        <object>objects\o_totem_C</object>
-        <object>objects\o_totem_D</object>
-        <object>objects\o_totem_E</object>
-        <object>objects\o_totem_F</object>
-        <object>objects\o_totem_G</object>
-        <object>objects\o_totem_H</object>
-        <object>objects\o_totem_I</object>
-        <object>objects\o_totem_J</object>
+        <objects name="Wood">
+          <object>objects\o_totem_A</object>
+          <object>objects\o_totem_B</object>
+          <object>objects\o_totem_C</object>
+          <object>objects\o_totem_D</object>
+          <object>objects\o_totem_E</object>
+          <object>objects\o_totem_F</object>
+          <object>objects\o_totem_G</object>
+          <object>objects\o_totem_H</object>
+          <object>objects\o_totem_I</object>
+          <object>objects\o_totem_J</object>
+        </objects>
+        <objects name="Metal">
+          <object>objects\o_m_totemA</object>
+        </objects>
       </objects>
       <objects name="Scuola">
         <objects name="Libri">
@@ -169,9 +190,9 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\t_classic</room>
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
-    <room>rooms\t_classic</room>
     <room>rooms\boomer</room>
     <rooms name="Stack">
       <room>rooms\s_twotris</room>
