@@ -25,9 +25,9 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>0</page>
-    <xoffset>1049</xoffset>
-    <yoffset>1106</yoffset>
+    <page>4</page>
+    <xoffset>-31</xoffset>
+    <yoffset>4082</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -50,7 +50,7 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="d_fix_count_ent" x="32" y="4768" name="inst_7F073BCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="d_fix_count_ent" x="32" y="4352" name="inst_7F073BCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_totem" x="320" y="4784" name="inst_BCCE11C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="m_totem" x="0" y="0" name="inst_9BBB578C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="following" x="320" y="4736" name="inst_9D5719C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

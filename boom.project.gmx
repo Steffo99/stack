@@ -91,6 +91,7 @@
       </sprites>
     </sprites>
     <sprite>sprites\i_sea</sprite>
+    <sprite>sprites\part_totem</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
