@@ -5,7 +5,7 @@ pile = 0;
 //Seleziona il primo oggetto.
 selected = 0;
 //Definisci qual è il numero massimo, ad esempio se arriva a stack_names[9] scrivi 9.
-totalitems = 11;
+totalitems = 16;
 //Definisci l'array con tutti i nomi degli oggetti da fare spawnare.
 totem_list[0] = o_totem_A;
 totem_list[1] = o_totem_B;
@@ -19,6 +19,11 @@ totem_list[8] = o_totem_I;
 totem_list[9] = o_totem_J;
 totem_list[10] = o_totem_K;
 totem_list[11] = o_totem_L;
+totem_list[12] = o_totem_M;
+totem_list[13] = o_totem_N;
+totem_list[14] = o_totem_O;
+totem_list[15] = o_totem_P;
+totem_list[16] = o_totem_Q;
 //Cambia il mouse.
 window_set_cursor(cr_cross);
 //Apri il file di salvataggio, carica il record e chiudi il file.

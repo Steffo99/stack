@@ -37,6 +37,7 @@
       <sprite>sprites\i_sandbox</sprite>
       <sprite>sprites\i_stairs</sprite>
       <sprite>sprites\i_base_classic</sprite>
+      <sprite>sprites\i_base_sand</sprite>
       <sprite>sprites\i_base_sandbox</sprite>
       <sprite>sprites\i_base_sidewalls_1</sprite>
       <sprite>sprites\i_base_sidewalls_2</sprite>
@@ -89,7 +90,10 @@
       </sprites>
     </sprites>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\cloud</background>
+    <background>background\sea</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\saverecord.gml</script>
@@ -146,6 +150,11 @@
           <object>objects\o_totem_J</object>
           <object>objects\o_totem_K</object>
           <object>objects\o_totem_L</object>
+          <object>objects\o_totem_M</object>
+          <object>objects\o_totem_N</object>
+          <object>objects\o_totem_O</object>
+          <object>objects\o_totem_P</object>
+          <object>objects\o_totem_Q</object>
         </objects>
       </objects>
       <objects name="Scuola">
@@ -175,6 +184,7 @@
       <object>objects\o_move_freeplay_levels</object>
       <object>objects\o_move_strategy</object>
       <object>objects\o_wall_inv_classic</object>
+      <object>objects\o_wall_inv_totem</object>
       <object>objects\o_wall_inv_sandbox</object>
       <object>objects\o_wall_inv_L_D</object>
       <object>objects\o_wall_inv_L_U</object>
