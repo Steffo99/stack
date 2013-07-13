@@ -15,8 +15,8 @@
   <clearViewBackground>-1</clearViewBackground>
   <makerSettings>
     <isSet>-1</isSet>
-    <w>1050</w>
-    <h>463</h>
+    <w>453</w>
+    <h>682</h>
     <showGrid>-1</showGrid>
     <showObjects>-1</showObjects>
     <showTiles>-1</showTiles>
@@ -25,9 +25,9 @@
     <showViews>0</showViews>
     <deleteUnderlyingObj>0</deleteUnderlyingObj>
     <deleteUnderlyingTiles>-1</deleteUnderlyingTiles>
-    <page>2</page>
-    <xoffset>-103</xoffset>
-    <yoffset>3962</yoffset>
+    <page>4</page>
+    <xoffset>-31</xoffset>
+    <yoffset>4426</yoffset>
   </makerSettings>
   <backgrounds>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -41,7 +41,7 @@
   </backgrounds>
   <views>
     <view visible="-1" objName="following" xview="0" yview="4320" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="320" vborder="240" hspeed="4" vspeed="4"/>
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="-1" objName="following" xview="192" yview="2880" wview="256" hview="1920" xport="642" yport="0" wport="64" hport="480" hborder="32" vborder="240" hspeed="4" vspeed="4"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
@@ -81,7 +81,7 @@
     <tile bgName="cloud" x="416" y="4032" w="64" h="32" xo="0" yo="0" id="10000021" name="inst_068C3E12" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="cloud" x="512" y="4000" w="64" h="32" xo="0" yo="0" id="10000022" name="inst_BF98DC05" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
     <tile bgName="cloud" x="576" y="3968" w="64" h="32" xo="0" yo="0" id="10000023" name="inst_3C8C96A8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="cloud" x="288" y="3968" w="64" h="32" xo="0" yo="0" id="10000025" name="inst_31A69A60" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="cloud" x="288" y="3968" w="64" h="32" xo="0" yo="0" id="10000024" name="inst_31A69A60" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>-1</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
