@@ -3,7 +3,7 @@
   <spriteName>i_base_sand</spriteName>
   <solid>-1</solid>
   <visible>-1</visible>
-  <depth>1000001</depth>
+  <depth>0</depth>
   <persistent>0</persistent>
   <parentName>o_wall_inv</parentName>
   <maskName>&lt;undefined&gt;</maskName>
