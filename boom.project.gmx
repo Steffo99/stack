@@ -28,6 +28,7 @@
     <sprite>sprites\i_esplosione</sprite>
     <sprite>sprites\i_moneta</sprite>
     <sprite>sprites\i_clock_100_yellow</sprite>
+    <sprite>sprites\i_clock_100_totem</sprite>
     <sprites name="Tiles">
       <sprite>sprites\i_blocco</sprite>
       <sprite>sprites\i_maxi</sprite>
