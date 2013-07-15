@@ -1,7 +1,7 @@
 //Seleziona il primo oggetto.
 selected = 0;
 //Definisci qual è il numero massimo, ad esempio se arriva a stack_names[9] scrivi 9.
-totalitems = 32;
+totalitems = 35;
 //Definisci l'array con tutti i nomi degli oggetti da fare spawnare.
 stack_names[0] = o_squadra_sin;
 stack_names[1] = o_squadra_des;
@@ -36,6 +36,9 @@ stack_names[29] = o_clock_sec;
 stack_names[30] = o_clock_min;
 stack_names[31] = o_clock_hou;
 stack_names[32] = o_count_ent;
+stack_names[33] = o_bott_red;
+stack_names[34] = o_lock_red;
+stack_names[35] = o_chiave_red;
 //Disattiva il mouse normale visto che viene generato automaticamente.
 window_set_cursor(cr_none);
 //Apri il file di salvataggio, carica il record e chiudi il file.

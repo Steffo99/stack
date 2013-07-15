@@ -31,6 +31,7 @@
     <sprite>sprites\i_clock_100_totem</sprite>
     <sprites name="Tiles">
       <sprite>sprites\i_blocco</sprite>
+      <sprite>sprites\i_redlock</sprite>
       <sprite>sprites\i_maxi</sprite>
       <sprite>sprites\i_sidewalls</sprite>
       <sprite>sprites\i_twotris</sprite>
@@ -92,6 +93,8 @@
     </sprites>
     <sprite>sprites\i_sea</sprite>
     <sprite>sprites\part_totem</sprite>
+    <sprite>sprites\i_button</sprite>
+    <sprite>sprites\i_chiave_red</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -120,10 +123,9 @@
     <objects name="Oggetti">
       <object>objects\o_generale</object>
       <object>objects\o_wall_norm</object>
-      <object>objects\o_clock_sec</object>
-      <object>objects\o_clock_min</object>
-      <object>objects\o_clock_hou</object>
-      <object>objects\o_count_ent</object>
+      <object>objects\o_lock_red</object>
+      <object>objects\o_bott_red</object>
+      <object>objects\o_chiave_red</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
         <object>objects\o_squadra_des</object>
@@ -179,6 +181,12 @@
       <objects name="Gomme">
         <object>objects\o_gomma_piccola</object>
         <object>objects\o_gomma_grande</object>
+      </objects>
+      <objects name="Orologi">
+        <object>objects\o_clock_sec</object>
+        <object>objects\o_clock_min</object>
+        <object>objects\o_clock_hou</object>
+        <object>objects\o_count_ent</object>
       </objects>
     </objects>
     <objects name="Pezzi">
