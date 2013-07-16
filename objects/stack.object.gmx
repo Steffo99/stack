@@ -298,7 +298,14 @@
           <argument>
             <kind>1</kind>
             <string>//Fai spawnare l'oggetto selezionato in base all'array stack_names.
-instance_create(mouse_x,mouse_y,stack_names[selected]);
+if (selected = 10)
+{
+   instance_create(floor((mouse_x div 32))*32,floor((mouse_y div 32))*32,stack_names[selected]);
+}
+else
+{
+   instance_create(mouse_x,mouse_y,stack_names[selected]);
+}
 </string>
           </argument>
         </arguments>
