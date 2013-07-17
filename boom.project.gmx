@@ -192,7 +192,7 @@
         <object>objects\o_count_ent</object>
       </objects>
       <objects name="Chiavi">
-        <objects name="Red (Parent)">
+        <objects name="Red">
           <object>objects\o_lock_red</object>
           <object>objects\o_bott_red</object>
           <object>objects\o_chiave_red</object>
