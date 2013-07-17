@@ -266,6 +266,7 @@
       <room>rooms\s_sidewalls</room>
       <room>rooms\s_maxi</room>
       <room>rooms\s_lifttest</room>
+      <room>rooms\s_sea</room>
     </rooms>
     <rooms name="Totem">
       <room>rooms\t_classic</room>
