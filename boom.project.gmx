@@ -235,6 +235,10 @@
         </objects>
         <objects name="Piazzabili">
           <object>objects\o_wall_norm</object>
+          <object>objects\o_wall_norm_L_D</object>
+          <object>objects\o_wall_norm_L_U</object>
+          <object>objects\o_wall_norm_R_U</object>
+          <object>objects\o_wall_norm_R_D</object>
         </objects>
       </objects>
     </objects>
