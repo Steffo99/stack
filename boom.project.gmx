@@ -128,6 +128,7 @@
   <objects name="objects">
     <objects name="Oggetti">
       <object>objects\o_generale</object>
+      <object>objects\o_wall_norm</object>
       <object>objects\o_CD</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
@@ -210,8 +211,6 @@
       </objects>
       <objects name="Muri">
         <objects name="Invulnerabili">
-<<<<<<< HEAD
-<<<<<<< HEAD
           <object>objects\o_wall_inv</object>
           <object>objects\o_wall_inv_L_D</object>
           <object>objects\o_wall_inv_L_U</object>
@@ -224,10 +223,6 @@
             <object>objects\o_wall_inv_lock</object>
             <object>objects\o_magnet</object>
           </objects>
-=======
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
-=======
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
           <objects name="Go To">
             <object>objects\o_move_freeplay_levels</object>
             <object>objects\o_move_strategy</object>
@@ -238,40 +233,39 @@
             <object>objects\o_move_stairs</object>
             <object>objects\o_move_sandbox</object>
           </objects>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
           <object>objects\o_wall_inv</object>
           <object>objects\o_wall_inv_L_D</object>
           <object>objects\o_wall_inv_L_U</object>
           <object>objects\o_wall_inv_R_U</object>
           <object>objects\o_wall_inv_R_D</object>
           <object>objects\o_wall_inv_classic</object>
-<<<<<<< HEAD
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
-=======
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
         </objects>
         <objects name="Piazzabili">
           <object>objects\o_wall_norm</object>
         </objects>
       </objects>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
+      <objects name="Muri"/>
     </objects>
     <objects name="Pezzi">
+      <object>objects\o_wall_inv</object>
+      <object>objects\o_move_freeplay_levels</object>
+      <object>objects\o_move_strategy</object>
+      <object>objects\o_wall_inv_classic</object>
       <object>objects\o_wall_inv_totem</object>
       <object>objects\o_wall_inv_sandbox</object>
+      <object>objects\o_wall_inv_L_D</object>
+      <object>objects\o_wall_inv_L_U</object>
+      <object>objects\o_wall_inv_R_U</object>
+      <object>objects\o_wall_inv_R_D</object>
+      <object>objects\o_move_twotris</object>
+      <object>objects\o_move_maxi</object>
+      <object>objects\o_move_sidewalls</object>
+      <object>objects\o_move_classic</object>
+      <object>objects\o_move_sandbox</object>
+      <object>objects\o_move_stairs</object>
       <object>objects\o_wall_inv_lock</object>
       <object>objects\o_magnet</object>
       <object>objects\o_sea</object>
-      <object>objects\d_fix_count_ent</object>
->>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
     </objects>
     <objects name="Script">
       <object>objects\menus</object>
