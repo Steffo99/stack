@@ -128,7 +128,6 @@
   <objects name="objects">
     <objects name="Oggetti">
       <object>objects\o_generale</object>
-      <object>objects\o_wall_norm</object>
       <object>objects\o_CD</object>
       <objects name="Squadre">
         <object>objects\o_squadra_sin</object>
@@ -233,39 +232,11 @@
             <object>objects\o_move_stairs</object>
             <object>objects\o_move_sandbox</object>
           </objects>
-          <object>objects\o_wall_inv</object>
-          <object>objects\o_wall_inv_L_D</object>
-          <object>objects\o_wall_inv_L_U</object>
-          <object>objects\o_wall_inv_R_U</object>
-          <object>objects\o_wall_inv_R_D</object>
-          <object>objects\o_wall_inv_classic</object>
         </objects>
         <objects name="Piazzabili">
           <object>objects\o_wall_norm</object>
         </objects>
       </objects>
-      <objects name="Muri"/>
-    </objects>
-    <objects name="Pezzi">
-      <object>objects\o_wall_inv</object>
-      <object>objects\o_move_freeplay_levels</object>
-      <object>objects\o_move_strategy</object>
-      <object>objects\o_wall_inv_classic</object>
-      <object>objects\o_wall_inv_totem</object>
-      <object>objects\o_wall_inv_sandbox</object>
-      <object>objects\o_wall_inv_L_D</object>
-      <object>objects\o_wall_inv_L_U</object>
-      <object>objects\o_wall_inv_R_U</object>
-      <object>objects\o_wall_inv_R_D</object>
-      <object>objects\o_move_twotris</object>
-      <object>objects\o_move_maxi</object>
-      <object>objects\o_move_sidewalls</object>
-      <object>objects\o_move_classic</object>
-      <object>objects\o_move_sandbox</object>
-      <object>objects\o_move_stairs</object>
-      <object>objects\o_wall_inv_lock</object>
-      <object>objects\o_magnet</object>
-      <object>objects\o_sea</object>
     </objects>
     <objects name="Script">
       <object>objects\menus</object>
