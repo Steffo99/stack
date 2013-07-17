@@ -100,6 +100,7 @@
     <sprite>sprites\i_lock_blue</sprite>
     <sprite>sprites\i_lock_green</sprite>
     <sprite>sprites\i_CD</sprite>
+    <sprite>sprites\i_ingot_gold</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -208,6 +209,7 @@
           <object>objects\o_chiave_green</object>
         </objects>
       </objects>
+      <objects name="Muri"/>
     </objects>
     <objects name="Pezzi">
       <object>objects\o_wall_inv</object>

@@ -11,7 +11,7 @@
   <PhysicsObject>-1</PhysicsObject>
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
-  <PhysicsObjectDensity>0.800000011920929</PhysicsObjectDensity>
+  <PhysicsObjectDensity>0.949999988079071</PhysicsObjectDensity>
   <PhysicsObjectRestitution>0.800000011920929</PhysicsObjectRestitution>
   <PhysicsObjectGroup>1</PhysicsObjectGroup>
   <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
