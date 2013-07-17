@@ -101,6 +101,7 @@
     <sprite>sprites\i_lock_green</sprite>
     <sprite>sprites\i_CD</sprite>
     <sprite>sprites\i_ingot_gold</sprite>
+    <sprite>sprites\i_moving_h</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -235,6 +236,7 @@
         </objects>
         <objects name="Piazzabili">
           <object>objects\o_wall_norm</object>
+          <object>objects\o_wall_norm_move_h</object>
           <object>objects\o_wall_norm_L_D</object>
           <object>objects\o_wall_norm_L_U</object>
           <object>objects\o_wall_norm_R_U</object>
