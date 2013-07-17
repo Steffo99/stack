@@ -211,6 +211,7 @@
       <objects name="Muri">
         <objects name="Invulnerabili">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <object>objects\o_wall_inv</object>
           <object>objects\o_wall_inv_L_D</object>
           <object>objects\o_wall_inv_L_U</object>
@@ -225,6 +226,8 @@
           </objects>
 =======
 >>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
+=======
+>>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
           <objects name="Go To">
             <object>objects\o_move_freeplay_levels</object>
             <object>objects\o_move_strategy</object>
@@ -236,13 +239,19 @@
             <object>objects\o_move_sandbox</object>
           </objects>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
           <object>objects\o_wall_inv</object>
           <object>objects\o_wall_inv_L_D</object>
           <object>objects\o_wall_inv_L_U</object>
           <object>objects\o_wall_inv_R_U</object>
           <object>objects\o_wall_inv_R_D</object>
           <object>objects\o_wall_inv_classic</object>
+<<<<<<< HEAD
+>>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
+=======
 >>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
         </objects>
         <objects name="Piazzabili">
@@ -250,7 +259,10 @@
         </objects>
       </objects>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 9cf83a7d47cccf98581ba22ff4c3d1dfddecc355
     </objects>
     <objects name="Pezzi">
       <object>objects\o_wall_inv_totem</object>
