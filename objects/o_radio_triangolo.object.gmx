@@ -16,12 +16,12 @@
   <PhysicsObjectGroup>1</PhysicsObjectGroup>
   <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
   <PhysicsObjectAngularDamping>15</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>15</PhysicsObjectFriction>
+  <PhysicsObjectFriction>25</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <point>0,0</point>
-    <point>16,0</point>
+    <point>8,0</point>
     <point>16,16</point>
+    <point>0,16</point>
   </PhysicsShapePoints>
 </object>
