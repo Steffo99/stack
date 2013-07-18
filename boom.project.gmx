@@ -237,12 +237,14 @@
         </objects>
         <objects name="Piazzabili">
           <object>objects\o_wall_norm</object>
-          <object>objects\o_wall_norm_move_h</object>
-          <object>objects\o_wall_norm_stomp_h_r</object>
           <object>objects\o_wall_norm_L_D</object>
           <object>objects\o_wall_norm_L_U</object>
           <object>objects\o_wall_norm_R_U</object>
           <object>objects\o_wall_norm_R_D</object>
+          <objects name="In movimento">
+            <object>objects\o_wall_norm_move_h</object>
+            <object>objects\o_wall_norm_stomp_h_r</object>
+          </objects>
         </objects>
       </objects>
     </objects>
