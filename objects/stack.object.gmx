@@ -298,7 +298,7 @@
           <argument>
             <kind>1</kind>
             <string>//Fai spawnare l'oggetto selezionato in base all'array stack_names.
-if (selected = 10 || selected = 43 || selected = 44 || selected = 45 || selected = 46 || selected = 34 || selected = 37 || selected = 40 || selected = 47)
+if (selected = 10 || selected = 43 || selected = 44 || selected = 45 || selected = 46 || selected = 34 || selected = 37 || selected = 40 || selected = 47 || selected = 48)
 {
    instance_create(floor((mouse_x div 32))*32,floor((mouse_y div 32))*32,stack_names[selected]);
 }

@@ -1,4 +1,4 @@
-if (selected = 10 || selected = 43 || selected = 44 || selected = 45 || selected = 46 || selected = 34 || selected = 37 || selected = 40 || selected = 47)
+if (selected = 10 || selected = 43 || selected = 44 || selected = 45 || selected = 46 || selected = 34 || selected = 37 || selected = 40 || selected = 47 || selected = 48)
 {
     draw_sprite_ext(object_get_sprite(stack_names[selected]), 0, floor((mouse_x div 32))*32,floor((mouse_y div 32))*32, 1, 1, 0, c_white, 0.4);
 }
