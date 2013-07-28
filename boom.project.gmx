@@ -104,6 +104,7 @@
     <sprite>sprites\i_moving_h</sprite>
     <sprite>sprites\i_stomping_h_r</sprite>
     <sprite>sprites\i_gravity</sprite>
+    <sprite>sprites\i_finish</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -226,6 +227,7 @@
             <object>objects\o_wall_inv_lock</object>
             <object>objects\o_magnet</object>
             <object>objects\o_gravity_up</object>
+            <object>objects\o_finish</object>
           </objects>
           <objects name="Go To">
             <object>objects\o_move_freeplay_levels</object>
