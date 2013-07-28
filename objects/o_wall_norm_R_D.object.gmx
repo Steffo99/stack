@@ -101,8 +101,8 @@ physics_draw_debug();
   <PhysicsObjectAwake>0</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
+    <point>0,32</point>
     <point>32,0</point>
     <point>32,32</point>
-    <point>0,32</point>
   </PhysicsShapePoints>
 </object>
