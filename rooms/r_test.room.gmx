@@ -367,6 +367,7 @@
     <instance objName="o_wall_inv" x="1344" y="416" name="inst_C8F5FEF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1376" y="448" name="inst_C1CE35B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1344" y="448" name="inst_4A5EA4E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="m_roll" x="0" y="0" name="inst_38C45F17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

@@ -258,6 +258,7 @@
       <object>objects\btotal</object>
       <object>objects\stack</object>
       <object>objects\m_totem</object>
+      <object>objects\m_roll</object>
       <object>objects\following</object>
       <object>objects\debugobj</object>
       <object>objects\strategy</object>
