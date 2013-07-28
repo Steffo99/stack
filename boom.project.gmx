@@ -103,6 +103,7 @@
     <sprite>sprites\i_ingot_gold</sprite>
     <sprite>sprites\i_moving_h</sprite>
     <sprite>sprites\i_stomping_h_r</sprite>
+    <sprite>sprites\i_gravity</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -122,6 +123,7 @@
     <script>scripts\rollR.gml</script>
     <script>scripts\rocketup.gml</script>
     <script>scripts\localrocket.gml</script>
+    <script>scripts\gravinvert.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -223,6 +225,7 @@
           <objects name="Speciali">
             <object>objects\o_wall_inv_lock</object>
             <object>objects\o_magnet</object>
+            <object>objects\o_gravity_up</object>
           </objects>
           <objects name="Go To">
             <object>objects\o_move_freeplay_levels</object>
@@ -280,6 +283,10 @@
     </rooms>
     <rooms name="Totem">
       <room>rooms\t_classic</room>
+    </rooms>
+    <rooms name="Roll">
+      <room>rooms\r_test</room>
+      <room>rooms\r_CD</room>
     </rooms>
   </rooms>
   <help>
