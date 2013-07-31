@@ -106,6 +106,7 @@
     <sprite>sprites\i_stomping_h_r</sprite>
     <sprite>sprites\i_gravity</sprite>
     <sprite>sprites\i_finish</sprite>
+    <sprite>sprites\i_help_roll</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -269,6 +270,7 @@
       <object>objects\money</object>
       <object>objects\d_fix_count_ent</object>
       <object>objects\o_sea</object>
+      <object>objects\o_info_keys</object>
     </objects>
   </objects>
   <rooms name="rooms">
