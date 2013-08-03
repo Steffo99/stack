@@ -274,7 +274,7 @@
       <object>objects\m_roll</object>
       <object>objects\following</object>
       <object>objects\debugobj</object>
-      <object>objects\strategy</object>
+      <object>objects\m_chainreaction</object>
       <object>objects\boom</object>
       <object>objects\money</object>
       <object>objects\d_fix_count_ent</object>
