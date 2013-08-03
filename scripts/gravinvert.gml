@@ -1,1 +1,1 @@
-physics_world_gravity(0, -60)
+physics_world_gravity(argument0, argument1)
