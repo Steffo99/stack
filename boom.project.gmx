@@ -110,6 +110,7 @@
     <sprite>sprites\i_gravity_right</sprite>
     <sprite>sprites\i_finish</sprite>
     <sprite>sprites\i_help_roll</sprite>
+    <sprite>sprites\i_vk_left</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
@@ -301,7 +302,7 @@
     <rooms name="Roll">
       <room>rooms\r_test</room>
       <room>rooms\r_CD</room>
-      <room>rooms\room14</room>
+      <room>rooms\r_grav_test</room>
     </rooms>
   </rooms>
   <help>
