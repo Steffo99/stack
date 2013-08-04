@@ -302,7 +302,7 @@
       <room>rooms\r_test</room>
       <room>rooms\r_CD</room>
       <room>rooms\r_grav_classic_p</room>
-      <room>rooms\r_</room>
+      <room>rooms\r_jonnys</room>
     </rooms>
     <rooms name="ChainReaction">
       <room>rooms\c_boomer</room>
