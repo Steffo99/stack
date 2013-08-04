@@ -302,7 +302,7 @@
     <rooms name="Roll">
       <room>rooms\r_test</room>
       <room>rooms\r_CD</room>
-      <room>rooms\r_grav_test</room>
+      <room>rooms\r_grav_classic_p</room>
     </rooms>
   </rooms>
   <help>
