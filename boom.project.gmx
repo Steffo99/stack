@@ -29,6 +29,7 @@
     <sprite>sprites\i_moneta</sprite>
     <sprite>sprites\i_clock_100_yellow</sprite>
     <sprite>sprites\i_clock_100_red</sprite>
+    <sprite>sprites\i_clock_100_cyan</sprite>
     <sprite>sprites\i_blocco</sprite>
     <sprite>sprites\i_clock_100_totem</sprite>
     <sprite>sprites\i_maxi</sprite>
@@ -131,6 +132,10 @@
     <script>scripts\rocketup.gml</script>
     <script>scripts\localrocket.gml</script>
     <script>scripts\gravinvert.gml</script>
+    <scripts name="Roll">
+      <script>scripts\r_s_roll.gml</script>
+      <script>scripts\r_l_roll.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
