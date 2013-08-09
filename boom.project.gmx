@@ -12,6 +12,7 @@
     <sprite>sprites\i_red_miniball</sprite>
     <sprite>sprites\i_orange_miniball</sprite>
     <sprite>sprites\i_radio_ball</sprite>
+    <sprite>sprites\i_radio_ball_orange</sprite>
     <sprite>sprites\i_radio_bigball</sprite>
     <sprite>sprites\i_radio_cube</sprite>
     <sprite>sprites\i_radio_tri_1</sprite>
@@ -151,6 +152,7 @@
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_palla_orange</object>
         <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
@@ -305,6 +307,7 @@
     </rooms>
     <rooms name="Roll">
       <room>rooms\r_test</room>
+      <room>rooms\r_test_mp</room>
       <room>rooms\r_CD</room>
       <room>rooms\r_grav_classic_p</room>
       <room>rooms\r_jonnys</room>
