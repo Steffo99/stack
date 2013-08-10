@@ -446,7 +446,7 @@
         <arguments>
           <argument>
             <kind>13</kind>
-            <string>16776960</string>
+            <string>12016384</string>
           </argument>
         </arguments>
       </action>
@@ -474,7 +474,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>+16</string>
+            <string>+10</string>
           </argument>
         </arguments>
       </action>
