@@ -12,6 +12,7 @@
     <sprite>sprites\i_red_miniball</sprite>
     <sprite>sprites\i_orange_miniball</sprite>
     <sprite>sprites\i_radio_ball</sprite>
+    <sprite>sprites\i_radio_ball_blue</sprite>
     <sprite>sprites\i_radio_ball_orange</sprite>
     <sprite>sprites\i_radio_bigball</sprite>
     <sprite>sprites\i_radio_cube</sprite>
@@ -141,6 +142,7 @@
   <fonts name="fonts">
     <font>fonts\points</font>
     <font>fonts\devbeaten</font>
+    <font>fonts\playernames</font>
   </fonts>
   <objects name="objects">
     <objects name="Oggetti">
@@ -152,6 +154,7 @@
       </objects>
       <objects name="Radio">
         <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_palla_blue</object>
         <object>objects\o_radio_palla_orange</object>
         <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>

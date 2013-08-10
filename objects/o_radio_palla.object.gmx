@@ -8,7 +8,7 @@
   <parentName>o_generale</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="5" enumb="76">
+    <event eventtype="5" enumb="90">
       <action>
         <libid>1</libid>
         <id>404</id>
@@ -95,7 +95,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>rollL</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -163,7 +163,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>rollL</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -188,7 +188,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="75">
+    <event eventtype="5" enumb="88">
       <action>
         <libid>1</libid>
         <id>404</id>
@@ -275,7 +275,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>rollR</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -343,7 +343,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>rollR</script>
           </argument>
           <argument>
             <kind>0</kind>
