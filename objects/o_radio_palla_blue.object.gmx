@@ -25,7 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>get_string(name,"Nome giocatore blu...");
+            <string>playername = get_string("Nome giocatore blu...","Blu");
 </string>
           </argument>
         </arguments>
@@ -452,7 +452,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>name</string>
+            <string>playername</string>
           </argument>
           <argument>
             <kind>0</kind>
