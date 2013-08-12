@@ -293,6 +293,7 @@
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\r_bigres_mp</room>
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
     <rooms name="Stack">
