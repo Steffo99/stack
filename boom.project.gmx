@@ -293,7 +293,6 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <room>rooms\r_bigres_mp</room>
     <room>rooms\menu</room>
     <room>rooms\stackselect</room>
     <rooms name="Stack">
@@ -311,10 +310,11 @@
     </rooms>
     <rooms name="Roll">
       <room>rooms\r_test</room>
-      <room>rooms\r_test_mp</room>
+      <room>rooms\r_paracadute_mp</room>
       <room>rooms\r_CD</room>
       <room>rooms\r_grav_classic_p</room>
       <room>rooms\r_jonnys</room>
+      <room>rooms\r_bigres_mp</room>
     </rooms>
     <rooms name="ChainReaction">
       <room>rooms\c_boomer</room>
