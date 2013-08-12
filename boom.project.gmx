@@ -143,6 +143,7 @@
     <font>fonts\points</font>
     <font>fonts\devbeaten</font>
     <font>fonts\playernames</font>
+    <font>fonts\playertitles</font>
   </fonts>
   <objects name="objects">
     <objects name="Oggetti">
