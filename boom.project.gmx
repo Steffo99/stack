@@ -139,6 +139,7 @@
       <script>scripts\r_l_roll.gml</script>
     </scripts>
   </scripts>
+  <shaders name="shaders"/>
   <fonts name="fonts">
     <font>fonts\points</font>
     <font>fonts\devbeaten</font>
