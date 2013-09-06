@@ -1,1 +1,1 @@
-room_goto(room_name);
+room_goto(room_specified);

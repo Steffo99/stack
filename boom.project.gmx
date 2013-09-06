@@ -286,6 +286,7 @@
       <object>objects\o_sea</object>
       <object>objects\o_info_keys</object>
     </objects>
+    <object>objects\s_display_menu</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
