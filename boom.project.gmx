@@ -138,8 +138,8 @@
       <script>scripts\r_s_roll.gml</script>
       <script>scripts\r_l_roll.gml</script>
     </scripts>
+    <script>scripts\changeroom.gml</script>
   </scripts>
-  <shaders name="shaders"/>
   <fonts name="fonts">
     <font>fonts\points</font>
     <font>fonts\devbeaten</font>
@@ -253,14 +253,7 @@
             </objects>
           </objects>
           <objects name="Go To">
-            <object>objects\o_move_freeplay_levels</object>
-            <object>objects\o_move_strategy</object>
-            <object>objects\o_move_twotris</object>
-            <object>objects\o_move_maxi</object>
-            <object>objects\o_move_sidewalls</object>
-            <object>objects\o_move_classic</object>
-            <object>objects\o_move_stairs</object>
-            <object>objects\o_move_sandbox</object>
+            <object>objects\o_move</object>
           </objects>
         </objects>
         <objects name="Piazzabili">
@@ -296,7 +289,6 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
-    <room>rooms\stackselect</room>
     <rooms name="Stack">
       <room>rooms\s_twotris</room>
       <room>rooms\s_classic</room>
