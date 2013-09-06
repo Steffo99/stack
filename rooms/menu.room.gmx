@@ -53,6 +53,7 @@
     <instance objName="&lt;undefined&gt;" x="544" y="480" name="inst_2648C0B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="576" y="480" name="inst_250E7EC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="debugobj" x="0" y="0" name="inst_C72204E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="s_display_menu" x="32" y="0" name="inst_631AFA3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
