@@ -118,7 +118,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>rollR</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -186,7 +186,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>rollR</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -211,7 +211,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="77">
+    <event eventtype="5" enumb="66">
       <action>
         <libid>1</libid>
         <id>404</id>
@@ -298,7 +298,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>rollL</script>
           </argument>
           <argument>
             <kind>0</kind>
@@ -366,7 +366,7 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>rollL</script>
           </argument>
           <argument>
             <kind>0</kind>

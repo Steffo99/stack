@@ -111,6 +111,7 @@
     <instance objName="o_move" x="320" y="416" name="inst_65ABDD27" locked="0" code="room_specified = 9;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_move" x="576" y="416" name="inst_211F21E2" locked="0" code="room_specified = 12;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_L_U" x="608" y="64" name="inst_1C768606" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="menus" x="64" y="0" name="inst_009069ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
