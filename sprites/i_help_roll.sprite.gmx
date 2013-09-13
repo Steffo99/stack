@@ -9,7 +9,7 @@
   <bbox_left>0</bbox_left>
   <bbox_right>37</bbox_right>
   <bbox_top>0</bbox_top>
-  <bbox_bottom>32</bbox_bottom>
+  <bbox_bottom>31</bbox_bottom>
   <HTile>0</HTile>
   <VTile>0</VTile>
   <TextureGroups>
@@ -17,7 +17,7 @@
   </TextureGroups>
   <For3D>0</For3D>
   <width>38</width>
-  <height>33</height>
+  <height>32</height>
   <frames>
     <frame index="0">images\i_help_roll_0.png</frame>
   </frames>

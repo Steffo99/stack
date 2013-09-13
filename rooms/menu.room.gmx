@@ -52,7 +52,10 @@
   <instances>
     <instance objName="&lt;undefined&gt;" x="544" y="480" name="inst_2648C0B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="&lt;undefined&gt;" x="576" y="480" name="inst_250E7EC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="text" x="320" y="416" name="inst_3032A2C0" locked="0" code="display = &quot;Benvenuto a Stack!#Premi F5 per selezionare un livello." scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="320" y="256" name="inst_3032A2C0" locked="0" code="display = &quot;Benvenuto a Stack!#Seleziona un livello da quelli sotto o premi F5 per inserire manualmente l'ID.&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="320" y="352" name="inst_92C56133" locked="0" code="display = &quot;Totem#Impila più pezzi possibili&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="64" y="352" name="inst_9A37F215" locked="0" code="display = &quot;Sandbox#Quello che ti pare&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="576" y="352" name="inst_704DC445" locked="0" code="display = &quot;Roll#Raggiungi il traguardo!&quot;;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="debugobj" x="0" y="0" name="inst_C72204E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="s_display_menu" x="32" y="0" name="inst_631AFA3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_norm_L_D" x="96" y="64" name="inst_D8218CC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -97,13 +100,17 @@
     <instance objName="o_wall_inv" x="544" y="64" name="inst_D4F7295C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_R_D" x="288" y="64" name="inst_CAE68114" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_R_D" x="416" y="64" name="inst_0BC99924" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_wall_inv_R_D" x="608" y="64" name="inst_D7DD345C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_wall_inv_L_U" x="608" y="96" name="inst_F0299E7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv_R_D" x="576" y="64" name="inst_D7DD345C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv_L_U" x="576" y="96" name="inst_F0299E7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_R_U" x="576" y="192" name="inst_FBDAD9AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_L_D" x="576" y="160" name="inst_249AB638" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_L_D" x="608" y="192" name="inst_198FF683" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_L_D" x="352" y="64" name="inst_631202BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv_R_U" x="416" y="192" name="inst_EA7EEA5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_move" x="64" y="416" name="inst_7FCE3EC9" locked="0" code="room_specified = 3;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_move" x="320" y="416" name="inst_65ABDD27" locked="0" code="room_specified = 9;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_move" x="576" y="416" name="inst_211F21E2" locked="0" code="room_specified = 12;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv_L_U" x="608" y="64" name="inst_1C768606" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

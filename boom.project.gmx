@@ -120,25 +120,30 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
-    <script>scripts\saverecord.gml</script>
-    <script>scripts\resetrecord.gml</script>
-    <script>scripts\saveX.gml</script>
-    <script>scripts\resetX.gml</script>
-    <script>scripts\loadX.gml</script>
     <script>scripts\togglefullscreen.gml</script>
-    <script>scripts\m_stack_init.gml</script>
-    <script>scripts\m_totem_init.gml</script>
     <script>scripts\scrcursor.gml</script>
     <script>scripts\rollL.gml</script>
     <script>scripts\rollR.gml</script>
     <script>scripts\rocketup.gml</script>
     <script>scripts\localrocket.gml</script>
     <script>scripts\gravinvert.gml</script>
-    <scripts name="Roll">
-      <script>scripts\r_s_roll.gml</script>
-      <script>scripts\r_l_roll.gml</script>
-    </scripts>
     <script>scripts\changeroom.gml</script>
+    <scripts name="Modes">
+      <script>scripts\m_stack_init.gml</script>
+      <script>scripts\m_totem_init.gml</script>
+      <script>scripts\m_menu_init.gml</script>
+      <scripts name="Roll">
+        <script>scripts\r_s_roll.gml</script>
+        <script>scripts\r_l_roll.gml</script>
+      </scripts>
+    </scripts>
+    <scripts name="Old">
+      <script>scripts\saverecord.gml</script>
+      <script>scripts\resetrecord.gml</script>
+      <script>scripts\saveX.gml</script>
+      <script>scripts\resetX.gml</script>
+      <script>scripts\loadX.gml</script>
+    </scripts>
   </scripts>
   <fonts name="fonts">
     <font>fonts\points</font>
@@ -285,8 +290,8 @@
       <object>objects\d_fix_count_ent</object>
       <object>objects\o_sea</object>
       <object>objects\o_info_keys</object>
+      <object>objects\s_display_menu</object>
     </objects>
-    <object>objects\s_display_menu</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
