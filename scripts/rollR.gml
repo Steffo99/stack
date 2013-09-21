@@ -1,1 +1,1 @@
-physics_apply_torque(200);
+physics_apply_torque(argument0);

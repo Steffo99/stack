@@ -95,27 +95,27 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>s_roll</script>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-200</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -163,27 +163,27 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollL</script>
+            <script>s_roll</script>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-200</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -275,27 +275,27 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>s_roll</script>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>200</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
@@ -343,27 +343,27 @@
         <arguments>
           <argument>
             <kind>9</kind>
-            <script>rollR</script>
+            <script>s_roll</script>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>200</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string></string>
           </argument>
         </arguments>
       </action>
