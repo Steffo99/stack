@@ -54,7 +54,3 @@ stack_names[47] = o_wall_norm_move_h;
 stack_names[48] = o_wall_norm_stomp_h_r;
 //Disattiva il mouse normale visto che viene generato automaticamente.
 window_set_cursor(cr_none);
-//Apri il file di salvataggio, carica il record e chiudi il file.
-ini_open("savefile.ini");
-stack.blocksr = ini_read_real("Stack",room_get_name(room),"0");
-ini_close();
