@@ -117,6 +117,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\cloud</background>
+    <background>background\cloud2</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
