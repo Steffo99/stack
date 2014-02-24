@@ -241,10 +241,10 @@
     <instance objName="o_wall_inv" x="64" y="0" name="inst_79E65FB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="32" y="0" name="inst_A60407C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_radio_palla" x="64" y="448" name="inst_351717ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bombspawner" x="320" y="256" name="inst_E66CB3CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bombspawner" x="608" y="256" name="inst_FB8E8B9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bombspawner" x="928" y="256" name="inst_0788834D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_bombspawner" x="1248" y="256" name="inst_334086F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bombspawner" x="416" y="32" name="inst_E66CB3CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bombspawner" x="640" y="32" name="inst_FB8E8B9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bombspawner" x="608" y="32" name="inst_0788834D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bombspawner" x="672" y="32" name="inst_334086F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_finish" x="2496" y="480" name="inst_F0DFCD04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
