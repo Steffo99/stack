@@ -154,72 +154,6 @@
   </fonts>
   <objects name="objects">
     <objects name="Oggetti">
-      <object>objects\o_generale</object>
-      <object>objects\o_CD</object>
-      <objects name="Squadre">
-        <object>objects\o_squadra_sin</object>
-        <object>objects\o_squadra_des</object>
-      </objects>
-      <objects name="Radio">
-        <object>objects\o_radio_palla</object>
-        <object>objects\o_radio_palla_blue</object>
-        <object>objects\o_radio_palla_orange</object>
-        <object>objects\o_radio_palla_grande</object>
-        <object>objects\o_radio_cubo</object>
-        <object>objects\o_radio_triangolo</object>
-        <object>objects\o_radio_triangolo_2</object>
-      </objects>
-      <objects name="Carta">
-        <object>objects\o_carta_palla</object>
-      </objects>
-      <objects name="Totem">
-        <objects name="Wood">
-          <object>objects\o_totem_A</object>
-          <object>objects\o_totem_B</object>
-          <object>objects\o_totem_C</object>
-          <object>objects\o_totem_D</object>
-          <object>objects\o_totem_E</object>
-          <object>objects\o_totem_F</object>
-          <object>objects\o_totem_G</object>
-          <object>objects\o_totem_H</object>
-          <object>objects\o_totem_I</object>
-          <object>objects\o_totem_J</object>
-          <object>objects\o_totem_K</object>
-          <object>objects\o_totem_L</object>
-          <object>objects\o_totem_M</object>
-          <object>objects\o_totem_N</object>
-          <object>objects\o_totem_O</object>
-          <object>objects\o_totem_P</object>
-          <object>objects\o_totem_Q</object>
-        </objects>
-      </objects>
-      <objects name="Scuola">
-        <objects name="Libri">
-          <object>objects\o_libro_mate</object>
-        </objects>
-        <object>objects\o_matita</object>
-        <object>objects\o_temperino</object>
-      </objects>
-      <objects name="Esplosivo">
-        <object>objects\o_bomba</object>
-        <object>objects\o_esplosivo</object>
-      </objects>
-      <objects name="Metallo">
-        <object>objects\o_moneta</object>
-      </objects>
-      <objects name="Paracadute">
-        <object>objects\o_paracadute</object>
-      </objects>
-      <objects name="Gomme">
-        <object>objects\o_gomma_piccola</object>
-        <object>objects\o_gomma_grande</object>
-      </objects>
-      <objects name="Orologi">
-        <object>objects\o_clock_sec</object>
-        <object>objects\o_clock_min</object>
-        <object>objects\o_clock_hou</object>
-        <object>objects\o_count_ent</object>
-      </objects>
       <objects name="Chiavi">
         <objects name="Red">
           <object>objects\o_lock_red</object>
@@ -272,6 +206,54 @@
           <objects name="In movimento">
             <object>objects\o_wall_norm_move_h</object>
             <object>objects\o_wall_norm_stomp_h_r</object>
+          </objects>
+        </objects>
+      </objects>
+      <objects name="Piazzabili">
+        <object>objects\o_generale</object>
+        <object>objects\o_squadra_sin</object>
+        <object>objects\o_squadra_des</object>
+        <object>objects\o_CD</object>
+        <object>objects\o_radio_palla</object>
+        <object>objects\o_radio_palla_blue</object>
+        <object>objects\o_radio_palla_orange</object>
+        <object>objects\o_radio_palla_grande</object>
+        <object>objects\o_radio_cubo</object>
+        <object>objects\o_radio_triangolo</object>
+        <object>objects\o_radio_triangolo_2</object>
+        <object>objects\o_carta_palla</object>
+        <object>objects\o_matita</object>
+        <object>objects\o_temperino</object>
+        <object>objects\o_libro_mate</object>
+        <object>objects\o_bomba</object>
+        <object>objects\o_esplosivo</object>
+        <object>objects\o_moneta</object>
+        <object>objects\o_paracadute</object>
+        <object>objects\o_gomma_grande</object>
+        <object>objects\o_gomma_piccola</object>
+        <object>objects\o_clock_sec</object>
+        <object>objects\o_clock_min</object>
+        <object>objects\o_clock_hou</object>
+        <object>objects\o_count_ent</object>
+        <objects name="Totem">
+          <objects name="Wood">
+            <object>objects\o_totem_A</object>
+            <object>objects\o_totem_B</object>
+            <object>objects\o_totem_C</object>
+            <object>objects\o_totem_D</object>
+            <object>objects\o_totem_E</object>
+            <object>objects\o_totem_F</object>
+            <object>objects\o_totem_G</object>
+            <object>objects\o_totem_H</object>
+            <object>objects\o_totem_I</object>
+            <object>objects\o_totem_J</object>
+            <object>objects\o_totem_K</object>
+            <object>objects\o_totem_L</object>
+            <object>objects\o_totem_M</object>
+            <object>objects\o_totem_N</object>
+            <object>objects\o_totem_O</object>
+            <object>objects\o_totem_P</object>
+            <object>objects\o_totem_Q</object>
           </objects>
         </objects>
       </objects>
