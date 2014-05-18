@@ -30,6 +30,7 @@
     <sprite>sprites\i_esplosione</sprite>
     <sprite>sprites\i_moneta</sprite>
     <sprite>sprites\i_clock_100_yellow</sprite>
+    <sprite>sprites\i_clock_100_green</sprite>
     <sprite>sprites\i_clock_100_red</sprite>
     <sprite>sprites\i_clock_100_cyan</sprite>
     <sprite>sprites\i_blocco</sprite>
@@ -154,61 +155,6 @@
   </fonts>
   <objects name="objects">
     <objects name="Oggetti">
-      <objects name="Chiavi">
-        <objects name="Red">
-          <object>objects\o_lock_red</object>
-          <object>objects\o_bott_red</object>
-          <object>objects\o_chiave_red</object>
-        </objects>
-        <objects name="Blue">
-          <object>objects\o_lock_blue</object>
-          <object>objects\o_bott_blue</object>
-          <object>objects\o_chiave_blue</object>
-        </objects>
-        <objects name="Green">
-          <object>objects\o_lock_green</object>
-          <object>objects\o_bott_green</object>
-          <object>objects\o_chiave_green</object>
-        </objects>
-      </objects>
-      <objects name="Muri">
-        <objects name="Invulnerabili">
-          <object>objects\o_wall_inv</object>
-          <object>objects\o_wall_inv_L_D</object>
-          <object>objects\o_wall_inv_L_U</object>
-          <object>objects\o_wall_inv_R_U</object>
-          <object>objects\o_wall_inv_R_D</object>
-          <object>objects\o_wall_inv_classic</object>
-          <object>objects\o_wall_inv_totem</object>
-          <object>objects\o_wall_inv_sandbox</object>
-          <objects name="Speciali">
-            <object>objects\o_wall_inv_lock</object>
-            <object>objects\o_magnet</object>
-            <object>objects\o_finish</object>
-            <object>objects\o_bombspawner</object>
-            <objects name="Gravity">
-              <object>objects\o_gravity_up</object>
-              <object>objects\o_gravity_down</object>
-              <object>objects\o_gravity_left</object>
-              <object>objects\o_gravity_right</object>
-            </objects>
-          </objects>
-          <objects name="Go To">
-            <object>objects\o_move</object>
-          </objects>
-        </objects>
-        <objects name="Piazzabili">
-          <object>objects\o_wall_norm</object>
-          <object>objects\o_wall_norm_L_D</object>
-          <object>objects\o_wall_norm_L_U</object>
-          <object>objects\o_wall_norm_R_U</object>
-          <object>objects\o_wall_norm_R_D</object>
-          <objects name="In movimento">
-            <object>objects\o_wall_norm_move_h</object>
-            <object>objects\o_wall_norm_stomp_h_r</object>
-          </objects>
-        </objects>
-      </objects>
       <objects name="Piazzabili">
         <object>objects\o_generale</object>
         <object>objects\o_squadra_sin</object>
@@ -235,6 +181,22 @@
         <object>objects\o_clock_min</object>
         <object>objects\o_clock_hou</object>
         <object>objects\o_count_ent</object>
+        <object>objects\o_lock_red</object>
+        <object>objects\o_bott_red</object>
+        <object>objects\o_chiave_red</object>
+        <object>objects\o_lock_blue</object>
+        <object>objects\o_bott_blue</object>
+        <object>objects\o_chiave_blue</object>
+        <object>objects\o_lock_green</object>
+        <object>objects\o_bott_green</object>
+        <object>objects\o_chiave_green</object>
+        <object>objects\o_wall_norm</object>
+        <object>objects\o_wall_norm_L_D</object>
+        <object>objects\o_wall_norm_R_U</object>
+        <object>objects\o_wall_norm_R_D</object>
+        <object>objects\o_wall_norm_L_U</object>
+        <object>objects\o_wall_norm_move_h</object>
+        <object>objects\o_wall_norm_stomp_h_r</object>
         <objects name="Totem">
           <objects name="Wood">
             <object>objects\o_totem_A</object>
@@ -256,6 +218,25 @@
             <object>objects\o_totem_Q</object>
           </objects>
         </objects>
+      </objects>
+      <objects name="Editor-only">
+        <object>objects\o_wall_inv</object>
+        <object>objects\o_wall_inv_L_D</object>
+        <object>objects\o_wall_inv_L_U</object>
+        <object>objects\o_wall_inv_R_U</object>
+        <object>objects\o_wall_inv_R_D</object>
+        <object>objects\o_wall_inv_classic</object>
+        <object>objects\o_wall_inv_totem</object>
+        <object>objects\o_wall_inv_sandbox</object>
+        <object>objects\o_wall_inv_lock</object>
+        <object>objects\o_magnet</object>
+        <object>objects\o_finish</object>
+        <object>objects\o_bombspawner</object>
+        <object>objects\o_gravity_up</object>
+        <object>objects\o_gravity_down</object>
+        <object>objects\o_gravity_left</object>
+        <object>objects\o_gravity_right</object>
+        <object>objects\o_move</object>
       </objects>
     </objects>
     <objects name="Script">

@@ -335,7 +335,7 @@
     <instance objName="o_wall_inv" x="1440" y="224" name="inst_F833D9CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1504" y="224" name="inst_DBFB84AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1472" y="224" name="inst_A38FD815" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_wall_inv" x="1536" y="224" name="inst_E2F7770A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_wall_inv_R_D" x="2368" y="96" name="inst_B1B04CFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1568" y="224" name="inst_99A3040E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1568" y="160" name="inst_3B7BAD3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="1568" y="192" name="inst_F46B6228" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -410,7 +410,7 @@
     <instance objName="o_lock_green" x="896" y="448" name="inst_3AB8BCC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_bott_green" x="96" y="448" name="inst_4C3D251E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="2368" y="128" name="inst_33B06CB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="o_wall_inv_R_D" x="2368" y="96" name="inst_B1B04CFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_bombspawner" x="1536" y="224" name="inst_DD1E78E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
