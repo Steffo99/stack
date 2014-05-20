@@ -34,6 +34,7 @@
     <sprite>sprites\i_clock_100_red</sprite>
     <sprite>sprites\i_clock_100_cyan</sprite>
     <sprite>sprites\i_blocco</sprite>
+    <sprite>sprites\i_spiral</sprite>
     <sprite>sprites\i_bombspitter</sprite>
     <sprite>sprites\i_clock_100_totem</sprite>
     <sprite>sprites\i_maxi</sprite>
@@ -163,6 +164,7 @@
         <object>objects\o_radio_palla</object>
         <object>objects\o_radio_palla_blue</object>
         <object>objects\o_radio_palla_orange</object>
+        <object>objects\o_radio_palla_orange_inactive</object>
         <object>objects\o_radio_palla_grande</object>
         <object>objects\o_radio_cubo</object>
         <object>objects\o_radio_triangolo</object>
@@ -236,7 +238,8 @@
         <object>objects\o_gravity_down</object>
         <object>objects\o_gravity_left</object>
         <object>objects\o_gravity_right</object>
-        <object>objects\o_move</object>
+        <object>objects\o_click_move</object>
+        <object>objects\o_collision_move</object>
       </objects>
     </objects>
     <objects name="Script">
@@ -260,6 +263,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\menu</room>
+    <room>rooms\menu_roll</room>
     <rooms name="Stack">
       <room>rooms\s_twotris</room>
       <room>rooms\s_classic</room>
