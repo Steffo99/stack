@@ -114,6 +114,9 @@
     <instance objName="o_wall_inv" x="0" y="320" name="inst_ED871016" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="o_wall_inv" x="0" y="288" name="inst_76A7D4FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="text" x="64" y="320" name="inst_A19F7258" locked="0" code="display = &quot;Livello&quot;;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_gravity_up" x="256" y="256" name="inst_C00E789B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="o_collision_move" x="256" y="32" name="inst_188F06ED" locked="0" code="room_specified = r_grav_classic_p;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="text" x="224" y="64" name="inst_A851ACE4" locked="0" code="display = &quot;Rally&quot;;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>
