@@ -1,6 +1,13 @@
-boom.gmx
-========
+<div align="center">
 
-Un minigioco con Box2D in cui bisogna impilare piú oggetti possibili.
-Creato con GameMaker Studio Standard Edition.
-Questo minigioco sarà poi inserito in un'altro gioco come minigioco.
+![](.media/icon-128x128_round.png)
+
+# Stack
+
+A block-stacking game
+
+</div>
+
+## History
+
+This project was developed from 2013 to 2015.
